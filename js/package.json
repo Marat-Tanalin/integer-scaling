@@ -1,0 +1,23 @@
+{
+	"name"        : "integer-scaling",
+	"version"     : "1.2.1",
+	"description" : "Calculates integer ratios for pixel-perfect image upscaling with optional aspect-ratio correction.",
+	"main"        : "integer-scaling.js",
+	"homepage"    : "http://tanalin.com/en/projects/integer-scaling/",
+	"repository": {
+		"type"      : "git",
+		"url"       : "https://github.com/Marat-Tanalin/integer-scaling.git",
+		"directory" : "js"
+	},
+	"license"     : "MIT",
+	"author"      : "Marat Tanalin (http://tanalin.com )",
+	"keywords"    : [
+		"integer-scaling",
+		"pixel-perfect-scaling",
+		"image-scaling",
+		"emulation",
+		"algorithms",
+		"game-development",
+		"graphics"
+	]
+}

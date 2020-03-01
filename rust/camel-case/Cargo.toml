@@ -1,0 +1,26 @@
+[package]
+name = "IntegerScaling"
+version = "1.2.1"
+edition = "2018"
+description = "Calculates integer ratios for pixel-perfect image upscaling with optional aspect-ratio correction."
+homepage = "http://tanalin.com/en/projects/integer-scaling/"
+repository = "https://github.com/Marat-Tanalin/integer-scaling"
+license = "MIT"
+authors = ["Marat Tanalin (http://tanalin.com )"]
+readme = "README.md"
+
+categories = [
+	"algorithms",
+	"game-development",
+	"graphics"
+]
+
+keywords = [
+	"integer-scaling",
+	"pixel-perfect",
+	"image-scaling",
+	"emulation"
+]
+
+[lib]
+path = "src/IntegerScaling.rs"
