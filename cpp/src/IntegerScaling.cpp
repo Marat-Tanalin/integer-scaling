@@ -45,10 +45,10 @@ namespace MaratTanalin {
 			return {ratio, ratio};
 		}
 
-		uint32_t maxRatioX        = areaWidth  / imageWidth,
-		         maxRatioY        = areaHeight / imageHeight,
-		         maxWidth         = imageWidth  * maxRatioX,
-		         maxHeight        = imageHeight * maxRatioY;
+		uint32_t maxRatioX = areaWidth  / imageWidth,
+		         maxRatioY = areaHeight / imageHeight,
+		         maxWidth  = imageWidth  * maxRatioX,
+		         maxHeight = imageHeight * maxRatioY;
 
 		double maxWidthAspectY  = maxWidth  * aspectY,
 		       maxHeightAspectX = maxHeight * aspectX;
