@@ -13,10 +13,10 @@ namespace MaratTanalin {
 			uint32_t x, y;
 		};
 
-		auto calculateRatio(uint32_t areaWidth, uint32_t areaHeight,
+		static auto calculateRatio(uint32_t areaWidth, uint32_t areaHeight,
 			uint32_t imageWidth, uint32_t imageHeight) -> uint32_t;
 
-		auto calculateRatios(uint32_t areaWidth, uint32_t areaHeight,
+		static auto calculateRatios(uint32_t areaWidth, uint32_t areaHeight,
 			uint32_t imageWidth, uint32_t imageHeight,
 			double aspectX, double aspectY) -> Ratios;
 	};
