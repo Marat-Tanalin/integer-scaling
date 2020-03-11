@@ -1,4 +1,4 @@
-﻿/*! Marat Tanalin | http://tanalin.com | 2019 */
+﻿/*! Marat Tanalin | http://tanalin.com */
 
 #include <cmath>
 
@@ -81,8 +81,8 @@ namespace MaratTanalin {
 			}
 
 			double ratioBFract = maxSizeA * aspectB / aspectA / imageSizeB,
-			       ratioBFloor = floor(ratioBFract),
-			       ratioBCeil  = ceil(ratioBFract),
+			       ratioBFloor = std::floor(ratioBFract),
+			       ratioBCeil  = std::ceil(ratioBFract),
 			       parFloor    = ratioBFloor / ratioA,
 			       parCeil     = ratioBCeil  / ratioA;
 
@@ -92,13 +92,13 @@ namespace MaratTanalin {
 			}
 
 			double commonFactor = imageWidth * aspectY / aspectX / imageHeight,
-			       errorFloor   = abs(1.0 - commonFactor * parFloor),
-			       errorCeil    = abs(1.0 - commonFactor * parCeil);
+			       errorFloor   = std::abs(1.0 - commonFactor * parFloor),
+			       errorCeil    = std::abs(1.0 - commonFactor * parCeil);
 
 			uint32_t ratioB;
 
-			if (abs(errorFloor - errorCeil) < .001) {
-				ratioB = abs(ratioA - ratioBFloor) < abs(ratioA - ratioBCeil)
+			if (std::abs(errorFloor - errorCeil) < .001) {
+				ratioB = std::abs(ratioA - ratioBFloor) < std::abs(ratioA - ratioBCeil)
 				       ? ratioBFloor
 				       : ratioBCeil;
 			}
