@@ -1,1 +1,0 @@
-See the [`integer-scaling-php`](https://github.com/Marat-Tanalin/integer-scaling-php) repository.

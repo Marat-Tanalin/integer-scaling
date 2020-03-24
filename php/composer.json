@@ -1,0 +1,29 @@
+{
+	"name": "marat-tanalin/integer-scaling",
+	"version" : "1.2.1",
+	"type": "library",
+	"description": "Calculates integer ratios for pixel-perfect image upscaling with optional aspect-ratio correction.",
+	"homepage": "http://tanalin.com/en/projects/integer-scaling/",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Marat Tanalin",
+			"homepage": "http://tanalin.com"
+		}
+	],
+	"keywords": [
+		"integer-scaling",
+		"pixel-perfect-scaling",
+		"image-scaling",
+		"algorithms",
+		"graphics"
+	],
+	"require": {
+		"php": "^7.2"
+	},
+	"autoload": {
+		"psr-4": {
+			"MaratTanalin\\": "src/"
+		}
+	}
+}
