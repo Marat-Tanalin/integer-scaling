@@ -1,3 +1,5 @@
+/*! Marat Tanalin | http://tanalin.com/en/projects/integer-scaling/ */
+
 #![allow(non_snake_case)]
 
 pub struct Ratios {

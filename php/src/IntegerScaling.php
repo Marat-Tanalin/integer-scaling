@@ -1,6 +1,6 @@
 <?php
 
-/*! Marat Tanalin | http://tanalin.com */
+/*! Marat Tanalin | http://tanalin.com/en/projects/integer-scaling/ */
 
 namespace MaratTanalin;
 

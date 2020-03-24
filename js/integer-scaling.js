@@ -1,4 +1,4 @@
-/*! Marat Tanalin | http://tanalin.com */
+/*! Marat Tanalin | http://tanalin.com/en/projects/integer-scaling/ */
 
 var IntegerScaling;
 

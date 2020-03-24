@@ -1,4 +1,4 @@
-﻿/*! Marat Tanalin | http://tanalin.com | 2019 */
+﻿/*! Marat Tanalin | http://tanalin.com/en/projects/integer-scaling/ */
 
 #pragma once
 
