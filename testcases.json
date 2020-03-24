@@ -1,0 +1,461 @@
+[
+	{
+		"comment"     : "DOS Mode 13h to 8K",
+		"areaWidth"   : 7680,
+		"areaHeight"  : 4320,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 18,
+			"y" : 21
+		}
+	},
+	{
+		"comment"     : "DOS Mode 13h to 6K (Apple XDR)",
+		"areaWidth"   : 6016,
+		"areaHeight"  : 3384,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 13,
+			"y" : 16
+		}
+	},
+	{
+		"comment"     : "DOS Mode 13h to 4K",
+		"areaWidth"   : 3840,
+		"areaHeight"  : 2160,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 8,
+			"y" : 10
+		}
+	},
+	{
+		"comment"     : "DOS Mode 13h to WQXGA",
+		"areaWidth"   : 2560,
+		"areaHeight"  : 1600,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 7,
+			"y" : 8
+		}
+	},
+	{
+		"comment"     : "DOS Mode 13h to QHD",
+		"areaWidth"   : 2560,
+		"areaHeight"  : 1440,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 6,
+			"y" : 7
+		}
+	},
+	{
+		"comment"     : "DOS Mode 13h to WUXGA; zero AR error",
+		"areaWidth"   : 1920,
+		"areaHeight"  : 1200,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 5,
+			"y" : 6
+		}
+	},
+	{
+		"comment"     : "DOS Mode 13h to FHD",
+		"areaWidth"   : 1920,
+		"areaHeight"  : 1080,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 4,
+			"y" : 5
+		}
+	},
+
+	{
+		"comment"     : "SNES to 8K",
+		"areaWidth"   : 7680,
+		"areaHeight"  : 4320,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 22,
+			"y" : 19
+		}
+	},
+	{
+		"comment"     : "SNES to 6K (Apple XDR)",
+		"areaWidth"   : 6016,
+		"areaHeight"  : 3384,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 17,
+			"y" : 15
+		}
+	},
+	{
+		"comment"     : "SNES to 4K",
+		"areaWidth"   : 3840,
+		"areaHeight"  : 2160,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 10,
+			"y" : 9
+		}
+	},
+	{
+		"comment"     : "SNES to WQXGA",
+		"areaWidth"   : 2560,
+		"areaHeight"  : 1600,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 8,
+			"y" : 7
+		}
+	},
+	{
+		"comment"     : "SNES to QHD; zero AR error",
+		"areaWidth"   : 2560,
+		"areaHeight"  : 1440,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 7,
+			"y" : 6
+		}
+	},
+	{
+		"comment"     : "SNES to WUXGA",
+		"areaWidth"   : 1920,
+		"areaHeight"  : 1200,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 6,
+			"y" : 5
+		}
+	},
+	{
+		"comment"     : "SNES to FHD",
+		"areaWidth"   : 1920,
+		"areaHeight"  : 1080,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 5,
+			"y" : 4
+		}
+	},
+
+	{
+		"comment"     : "Genesis to 8K",
+		"areaWidth"   : 7680,
+		"areaHeight"  : 4320,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 18,
+			"y" : 19
+		}
+	},
+	{
+		"comment"     : "Genesis to 6K (Apple XDR)",
+		"areaWidth"   : 6016,
+		"areaHeight"  : 3384,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 14,
+			"y" : 15
+		}
+	},
+	{
+		"comment"     : "Genesis to 4K",
+		"areaWidth"   : 3840,
+		"areaHeight"  : 2160,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 8,
+			"y" : 9
+		}
+	},
+	{
+		"comment"     : "Genesis to WQXGA; AR correction is impossible",
+		"areaWidth"   : 2560,
+		"areaHeight"  : 1600,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 7,
+			"y" : 7
+		}
+	},
+	{
+		"comment"     : "Genesis to QHD; AR correction is impossible",
+		"areaWidth"   : 2560,
+		"areaHeight"  : 1440,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 6,
+			"y" : 6
+		}
+	},
+	{
+		"comment"     : "Genesis to WUXGA; AR correction is impossible",
+		"areaWidth"   : 1920,
+		"areaHeight"  : 1200,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 5,
+			"y" : 5
+		}
+	},
+	{
+		"comment"     : "Genesis to FHD; AR correction is impossible",
+		"areaWidth"   : 1920,
+		"areaHeight"  : 1080,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 4,
+			"y" : 4
+		}
+	},
+
+	{
+		"comment"     : "Midway T Unit (arcade MK series) to 8K",
+		"areaWidth"   : 7680,
+		"areaHeight"  : 4320,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 14,
+			"y" : 17
+		}
+	},
+	{
+		"comment"     : "Midway T Unit (arcade MK series) to 6K (Apple XDR)",
+		"areaWidth"   : 6016,
+		"areaHeight"  : 3384,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 11,
+			"y" : 13
+		}
+	},
+	{
+		"comment"     : "Midway T Unit (arcade MK series) to 4K",
+		"areaWidth"   : 3840,
+		"areaHeight"  : 2160,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 7,
+			"y" : 8
+		}
+	},
+	{
+		"comment"     : "Midway T Unit (arcade MK series) to WQXGA",
+		"areaWidth"   : 2560,
+		"areaHeight"  : 1600,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 5,
+			"y" : 6
+		}
+	},
+	{
+		"comment"     : "Midway T Unit (arcade MK series) to QHD",
+		"areaWidth"   : 2560,
+		"areaHeight"  : 1440,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 4,
+			"y" : 5
+		}
+	},
+	{
+		"comment"     : "Midway T Unit (arcade MK series) to WUXGA",
+		"areaWidth"   : 1920,
+		"areaHeight"  : 1200,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 3,
+			"y" : 4
+		}
+	},
+	{
+		"comment"     : "Midway T Unit (arcade MK series) to FHD",
+		"areaWidth"   : 1920,
+		"areaHeight"  : 1080,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 3,
+			"y" : 4
+		}
+	},
+
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to 8K",
+		"areaWidth"   : 7680,
+		"areaHeight"  : 4320,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 15,
+			"y" : 19
+		}
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to 6K (Apple XDR)",
+		"areaWidth"   : 6016,
+		"areaHeight"  : 3384,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 12,
+			"y" : 15
+		}
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to 4K; zero AR error",
+		"areaWidth"   : 3840,
+		"areaHeight"  : 2160,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 7,
+			"y" : 9
+		}
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to WQXGA",
+		"areaWidth"   : 2560,
+		"areaHeight"  : 1600,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 5,
+			"y" : 7
+		}
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to QHD",
+		"areaWidth"   : 2560,
+		"areaHeight"  : 1440,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 5,
+			"y" : 6
+		}
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to WUXGA",
+		"areaWidth"   : 1920,
+		"areaHeight"  : 1200,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 4,
+			"y" : 5
+		}
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to FHD",
+		"areaWidth"   : 1920,
+		"areaHeight"  : 1080,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 3,
+			"y" : 4
+		}
+	}
+]
