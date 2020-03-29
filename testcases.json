@@ -52,6 +52,19 @@
 		}
 	},
 	{
+		"comment"     : "DOS Mode 13h to 3K 16:10 (MacBook Pro 16 2019)",
+		"areaWidth"   : 3072,
+		"areaHeight"  : 1920,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 8,
+			"y" : 9
+		}
+	},
+	{
 		"comment"     : "DOS Mode 13h to WQXGA",
 		"areaWidth"   : 2560,
 		"areaHeight"  : 1600,
@@ -154,6 +167,19 @@
 		"ratios"      : {
 			"x" : 10,
 			"y" : 9
+		}
+	},
+	{
+		"comment"     : "SNES to 3K 16:10 (MacBook Pro 16 2019)",
+		"areaWidth"   : 3072,
+		"areaHeight"  : 1920,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 9,
+			"y" : 8
 		}
 	},
 	{
@@ -262,6 +288,19 @@
 		}
 	},
 	{
+		"comment"     : "Genesis to 3K 16:10 (MacBook Pro 16 2019)",
+		"areaWidth"   : 3072,
+		"areaHeight"  : 1920,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 7,
+			"y" : 8
+		}
+	},
+	{
 		"comment"     : "Genesis to WQXGA; AR correction is impossible",
 		"areaWidth"   : 2560,
 		"areaHeight"  : 1600,
@@ -367,6 +406,19 @@
 		}
 	},
 	{
+		"comment"     : "Midway T Unit (arcade MK series) to 3K 16:10 (MacBook Pro 16 2019)",
+		"areaWidth"   : 3072,
+		"areaHeight"  : 1920,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 6,
+			"y" : 7
+		}
+	},
+	{
 		"comment"     : "Midway T Unit (arcade MK series) to WQXGA",
 		"areaWidth"   : 2560,
 		"areaHeight"  : 1600,
@@ -469,6 +521,19 @@
 		"ratios"      : {
 			"x" : 7,
 			"y" : 9
+		}
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to 3K 16:10 (MacBook Pro 16 2019)",
+		"areaWidth"   : 3072,
+		"areaHeight"  : 1920,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 6,
+			"y" : 8
 		}
 	},
 	{
