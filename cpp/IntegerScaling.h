@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include <cinttypes>
+#include <cstdint>
 
 namespace MaratTanalin {
 
