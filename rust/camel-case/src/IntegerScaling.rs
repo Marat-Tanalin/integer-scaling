@@ -7,6 +7,11 @@ pub struct Ratios {
 	pub y : u32
 }
 
+pub struct Size {
+	pub width  : u32,
+	pub height : u32
+}
+
 /// Calculates an integer scaling ratio common for X/Y axes (square pixels).
 pub fn calculateRatio(areaWidth : u32, areaHeight : u32,
 	imageWidth : u32, imageHeight : u32) -> u32
@@ -132,5 +137,74 @@ pub fn calculateRatios(areaWidth : u32, areaHeight : u32,
 	Ratios {
 		x: ratioX,
 		y: ratioY
+	}
+}
+
+/// Calculates size (width and height) of scaled image
+/// without aspect-ratio correction (square pixels).
+pub fn calculateSize(areaWidth : u32, areaHeight : u32,
+	imageWidth : u32, imageHeight : u32) -> Size
+{
+	let ratio = calculateRatio(areaWidth, areaHeight, imageWidth, imageHeight);
+
+	Size {
+		width  : imageWidth  * ratio,
+		height : imageHeight * ratio
+	}
+}
+
+/// Calculates size (width and height) of scaled image
+/// with aspect-ratio correction (rectangular pixels).
+pub fn calculateSizeCorrected(areaWidth : u32, areaHeight : u32,
+	imageWidth : u32, imageHeight : u32,
+	aspectX : f64, aspectY : f64) -> Size
+{
+	let ratios = calculateRatios(areaWidth, areaHeight, imageWidth, imageHeight, aspectX, aspectY);
+
+	Size {
+		width  : imageWidth  * ratios.x,
+		height : imageHeight * ratios.y
+	}
+}
+
+/**
+ * Calculates size (width and height) of scaled image with aspect-ratio
+ * correction with integer vertical scaling ratio, but fractional horizontal
+ * scaling ratio for the purpose of achieving precise aspect ratio while
+ * still having integer vertical scaling e.g. for uniform scanlines.
+ */
+pub fn calculateSizeCorrectedPerfectY(areaWidth : u32, areaHeight : u32,
+	imageHeight : u32,
+	aspectX : f64, aspectY : f64) -> Size
+{
+	let imageWidth = imageHeight as f64 * aspectX / aspectY;
+
+	let imageSize : f64;
+	let areaSize  : u32;
+
+	if areaHeight as f64 * imageWidth < areaWidth as f64 * imageHeight as f64 {
+		areaSize  = areaHeight;
+		imageSize = imageHeight as f64;
+	}
+	else {
+		areaSize  = areaWidth;
+		imageSize = imageWidth;
+	}
+
+	let mut ratio = areaSize / imageSize as u32;
+
+	if ratio < 1 {
+		ratio = 1;
+	}
+
+	let mut width = (imageWidth * ratio as f64).round() as u32;
+
+	if width > areaWidth {
+		width -= 1;
+	}
+
+	Size {
+		width  : width,
+		height : imageHeight * ratio
 	}
 }

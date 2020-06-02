@@ -132,4 +132,73 @@ namespace MaratTanalin {
 		};
 	}
 
+	/**
+	 * Calculates size (width and height) of scaled image
+	 * without aspect-ratio correction (square pixels).
+	 */
+	auto IntegerScaling::calculateSize(uint32_t areaWidth, uint32_t areaHeight,
+		uint32_t imageWidth, uint32_t imageHeight) -> Size
+	{
+		uint32_t ratio = calculateRatio(areaWidth, areaHeight, imageWidth, imageHeight);
+
+		return {
+			imageWidth  * ratio,
+			imageHeight * ratio
+		};
+	}
+
+	/**
+	 * Calculates size (width and height) of scaled image
+	 * with aspect-ratio correction (rectangular pixels).
+	 */
+	auto IntegerScaling::calculateSizeCorrected(uint32_t areaWidth, uint32_t areaHeight,
+		uint32_t imageWidth, uint32_t imageHeight,
+		double aspectX, double aspectY) -> Size
+	{
+		auto ratios = calculateRatios(areaWidth, areaHeight, imageWidth, imageHeight, aspectX, aspectY);
+
+		return {
+			imageWidth  * ratios.x,
+			imageHeight * ratios.y
+		};
+	}
+
+	/**
+	 * Calculates size (width and height) of scaled image with aspect-ratio
+	 * correction with integer vertical scaling ratio, but fractional horizontal
+	 * scaling ratio for the purpose of achieving precise aspect ratio while
+	 * still having integer vertical scaling e.g. for uniform scanlines.
+	 */
+	auto IntegerScaling::calculateSizeCorrectedPerfectY(
+		uint32_t areaWidth,  uint32_t areaHeight,
+		uint32_t imageHeight,
+		double aspectX, double aspectY) -> Size
+	{
+		double imageWidth = imageHeight * aspectX / aspectY;
+		double imageSize;
+		uint32_t areaSize;
+
+		if (areaHeight * imageWidth < (double)areaWidth * imageHeight) {
+			areaSize  = areaHeight;
+			imageSize = imageHeight;
+		}
+		else {
+			areaSize  = areaWidth;
+			imageSize = imageWidth;
+		}
+
+		uint32_t ratio = areaSize / imageSize;
+
+		if (ratio < 1) {
+			ratio = 1;
+		}
+
+		uint32_t width = std::round(imageWidth * ratio);
+
+		if (width > areaWidth) {
+			width--;
+		}
+
+		return {width, imageHeight * ratio};
+	}
 }

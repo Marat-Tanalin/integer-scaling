@@ -148,8 +148,89 @@ var IntegerScaling;
 		return createRatiosObject(ratioX, ratioY);
 	};
 
+	/**
+	 * Calculates size (width and height) of scaled image
+	 * without aspect-ratio correction (square pixels).
+	 * 
+	 * @param {number} areaWidth
+	 * @param {number} areaHeight
+	 * @param {number} imageWidth
+	 * @param {number} imageHeight
+	 * @returns {Object}
+	 */
+	var calculateSize = function(areaWidth, areaHeight, imageWidth, imageHeight) {
+		var ratio = calculateRatio(areaWidth, areaHeight, imageWidth, imageHeight);
+
+		return {
+			width  : imageWidth  * ratio,
+			height : imageHeight * ratio
+		};
+	}
+
+	/**
+	 * Calculates size (width and height) of scaled image
+	 * with aspect-ratio correction (rectangular pixels).
+	 * 
+	 * @param {number} areaWidth
+	 * @param {number} areaHeight
+	 * @param {number} imageWidth
+	 * @param {number} imageHeight
+	 * @param {number} aspectX
+	 * @param {number} aspectY
+	 * @returns {Object}
+	 */
+	var calculateSizeCorrected = function(areaWidth, areaHeight, imageWidth, imageHeight, aspectX, aspectY) {
+		var ratios = calculateRatios(areaWidth, areaHeight, imageWidth, imageHeight, aspectX, aspectY);
+
+		return {
+			width  : imageWidth  * ratios.x,
+			height : imageHeight * ratios.y
+		};
+	};
+
+	/**
+	 * Calculates size (width and height) of scaled image with aspect-ratio
+	 * correction with integer vertical scaling ratio, but fractional horizontal
+	 * scaling ratio for the purpose of achieving precise aspect ratio while
+	 * still having integer vertical scaling e.g. for uniform scanlines.
+	 */
+	var calculateSizeCorrectedPerfectY = function(areaWidth, areaHeight, imageHeight, aspectX, aspectY) {
+		var imageWidth = imageHeight * aspectX / aspectY;
+
+		var imageSize, areaSize;
+
+		if (areaHeight * imageWidth < areaWidth * imageHeight) {
+			areaSize  = areaHeight;
+			imageSize = imageHeight;
+		}
+		else {
+			areaSize  = areaWidth;
+			imageSize = imageWidth;
+		}
+
+		var ratio = Math.floor(areaSize / imageSize);
+
+		if (ratio < 1) {
+			ratio = 1;
+		}
+
+		var width = Math.round(imageWidth * ratio);
+
+		if (width > areaWidth) {
+			width--;
+		}
+
+		return {
+			width  : width,
+			height : imageHeight * ratio
+		};
+	}
+
 	IntegerScaling = {
-		calculateRatio  : calculateRatio,
-		calculateRatios : calculateRatios
+		calculateRatio                 : calculateRatio,
+		calculateRatios                : calculateRatios,
+		calculateSize                  : calculateSize,
+		calculateSizeCorrected         : calculateSizeCorrected,
+		calculateSizeCorrectedPerfectY : calculateSizeCorrectedPerfectY
 	};
 })();
