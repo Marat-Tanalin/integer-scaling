@@ -116,6 +116,19 @@
 			"y" : 5
 		}
 	},
+	{
+		"comment"     : "DOS Mode 13h to HD+",
+		"areaWidth"   : 1600,
+		"areaHeight"  : 900,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 3,
+			"y" : 4
+		}
+	},
 
 	{
 		"comment"     : "SNES to 8K",
@@ -225,6 +238,19 @@
 		"comment"     : "SNES to FHD",
 		"areaWidth"   : 1920,
 		"areaHeight"  : 1080,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 5,
+			"y" : 4
+		}
+	},
+	{
+		"comment"     : "SNES to HD+",
+		"areaWidth"   : 1600,
+		"areaHeight"  : 900,
 		"imageWidth"  : 256,
 		"imageHeight" : 224,
 		"aspectX"     : 4,
@@ -352,6 +378,19 @@
 			"y" : 4
 		}
 	},
+	{
+		"comment"     : "Genesis to HD+; AR correction is impossible",
+		"areaWidth"   : 1600,
+		"areaHeight"  : 900,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 4,
+			"y" : 4
+		}
+	},
 
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to 8K",
@@ -470,6 +509,19 @@
 			"y" : 4
 		}
 	},
+	{
+		"comment"     : "Midway T Unit (arcade MK series) to HD+; AR correction is impossible",
+		"areaWidth"   : 1600,
+		"areaHeight"  : 900,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 3,
+			"y" : 3
+		}
+	},
 
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to 8K",
@@ -579,6 +631,19 @@
 		"comment"     : "Capcom CPS (arcade SF series) to FHD",
 		"areaWidth"   : 1920,
 		"areaHeight"  : 1080,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 3,
+			"y" : 4
+		}
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to HD+",
+		"areaWidth"   : 1600,
+		"areaHeight"  : 900,
 		"imageWidth"  : 384,
 		"imageHeight" : 224,
 		"aspectX"     : 4,
