@@ -563,7 +563,7 @@
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to QXGA",
-		"areaWidth"   : 2048
+		"areaWidth"   : 2048,
 		"areaHeight"  : 1536,
 		"imageWidth"  : 400,
 		"imageHeight" : 254,
@@ -720,7 +720,7 @@
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to QXGA",
-		"areaWidth"   : 2048
+		"areaWidth"   : 2048,
 		"areaHeight"  : 1536,
 		"imageWidth"  : 384,
 		"imageHeight" : 224,
