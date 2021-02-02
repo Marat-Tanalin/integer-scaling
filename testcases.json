@@ -91,6 +91,19 @@
 		}
 	},
 	{
+		"comment"     : "DOS Mode 13h to QXGA",
+		"areaWidth"   : 2048,
+		"areaHeight"  : 1536,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 6,
+			"y" : 7
+		}
+	},
+	{
 		"comment"     : "DOS Mode 13h to QHD",
 		"areaWidth"   : 2560,
 		"areaHeight"  : 1440,
@@ -232,6 +245,19 @@
 		"ratios"      : {
 			"x" : 8,
 			"y" : 7
+		}
+	},
+	{
+		"comment"     : "SNES to QXGA; zero AR error",
+		"areaWidth"   : 2048,
+		"areaHeight"  : 1536,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 7,
+			"y" : 6
 		}
 	},
 	{
@@ -379,6 +405,19 @@
 		}
 	},
 	{
+		"comment"     : "Genesis to QXGA; AR correction is impossible",
+		"areaWidth"   : 2048,
+		"areaHeight"  : 1536,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 6,
+			"y" : 6
+		}
+	},
+	{
 		"comment"     : "Genesis to QHD; AR correction is impossible",
 		"areaWidth"   : 2560,
 		"areaHeight"  : 1440,
@@ -513,6 +552,19 @@
 		"comment"     : "Midway T Unit (arcade MK series) to WQXGA",
 		"areaWidth"   : 2560,
 		"areaHeight"  : 1600,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 5,
+			"y" : 6
+		}
+	},
+	{
+		"comment"     : "Midway T Unit (arcade MK series) to QXGA",
+		"areaWidth"   : 2048
+		"areaHeight"  : 1536,
 		"imageWidth"  : 400,
 		"imageHeight" : 254,
 		"aspectX"     : 4,
@@ -664,6 +716,19 @@
 		"ratios"      : {
 			"x" : 5,
 			"y" : 7
+		}
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to QXGA",
+		"areaWidth"   : 2048
+		"areaHeight"  : 1536,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 5,
+			"y" : 6
 		}
 	},
 	{
