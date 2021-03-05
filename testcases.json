@@ -39,6 +39,19 @@
 		}
 	},
 	{
+		"comment"     : "DOS Mode 13h to 4.5x3K (MS Surface Studio)",
+		"areaWidth"   : 4500,
+		"areaHeight"  : 3000,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 13,
+			"y" : 15
+		}
+	},
+	{
 		"comment"     : "DOS Mode 13h to Apple iMac 21.5 2020",
 		"areaWidth"   : 4096,
 		"areaHeight"  : 2304,
@@ -193,6 +206,19 @@
 		"ratios"      : {
 			"x" : 14,
 			"y" : 12
+		}
+	},
+	{
+		"comment"     : "SNES to 4.5x3K (MS Surface Studio)",
+		"areaWidth"   : 4500,
+		"areaHeight"  : 3000,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 15,
+			"y" : 13
 		}
 	},
 	{
@@ -353,6 +379,19 @@
 		}
 	},
 	{
+		"comment"     : "Genesis to 4.5x3K (MS Surface Studio)",
+		"areaWidth"   : 4500,
+		"areaHeight"  : 3000,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 12,
+			"y" : 13
+		}
+	},
+	{
 		"comment"     : "Genesis to Apple iMac 21.5 2020",
 		"areaWidth"   : 4096,
 		"areaHeight"  : 2304,
@@ -500,6 +539,19 @@
 		"comment"     : "Midway T Unit (arcade MK series) to 5K",
 		"areaWidth"   : 5120,
 		"areaHeight"  : 2880,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 9,
+			"y" : 11
+		}
+	},
+	{
+		"comment"     : "Midway T Unit (arcade MK series) to 4.5x3K (MS Surface Studio)",
+		"areaWidth"   : 4500,
+		"areaHeight"  : 3000,
 		"imageWidth"  : 400,
 		"imageHeight" : 254,
 		"aspectX"     : 4,
@@ -664,6 +716,19 @@
 		"ratios"      : {
 			"x" : 9,
 			"y" : 12
+		}
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to 4.5x3K (MS Surface Studio)",
+		"areaWidth"   : 4500,
+		"areaHeight"  : 3000,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 10,
+			"y" : 13
 		}
 	},
 	{
