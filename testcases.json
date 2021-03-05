@@ -170,6 +170,176 @@
 	},
 
 	{
+		"comment"     : "Apple II to 8K",
+		"areaWidth"   : 7680,
+		"areaHeight"  : 4320,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 20,
+			"y" : 22
+		}
+	},
+	{
+		"comment"     : "Apple II to 6K (Apple XDR)",
+		"areaWidth"   : 6016,
+		"areaHeight"  : 3384,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 16,
+			"y" : 17
+		}
+	},
+	{
+		"comment"     : "Apple II to 5K; zero height loss",
+		"areaWidth"   : 5120,
+		"areaHeight"  : 2880,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 14,
+			"y" : 15
+		}
+	},
+	{
+		"comment"     : "Apple II to 4.5x3K (MS Surface Studio)",
+		"areaWidth"   : 4500,
+		"areaHeight"  : 3000,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 14,
+			"y" : 15
+		}
+	},
+	{
+		"comment"     : "Apple II to Apple iMac 21.5 2020; zero height loss",
+		"areaWidth"   : 4096,
+		"areaHeight"  : 2304,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 11,
+			"y" : 12
+		}
+	},
+	{
+		"comment"     : "Apple II to 4K",
+		"areaWidth"   : 3840,
+		"areaHeight"  : 2160,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 10,
+			"y" : 11
+		}
+	},
+	{
+		"comment"     : "Apple II to 3K 16:10 (MacBook Pro 16 2019); zero height loss",
+		"areaWidth"   : 3072,
+		"areaHeight"  : 1920,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 9,
+			"y" : 10
+		}
+	},
+	{
+		"comment"     : "Apple II to WQXGA",
+		"areaWidth"   : 2560,
+		"areaHeight"  : 1600,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 7,
+			"y" : 8
+		}
+	},
+	{
+		"comment"     : "Apple II to QXGA; zero height loss",
+		"areaWidth"   : 2048,
+		"areaHeight"  : 1536,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 7,
+			"y" : 8
+		}
+	},
+	{
+		"comment"     : "Apple II to QHD",
+		"areaWidth"   : 2560,
+		"areaHeight"  : 1440,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 6,
+			"y" : 7
+		}
+	},
+	{
+		"comment"     : "Apple II to WUXGA",
+		"areaWidth"   : 1920,
+		"areaHeight"  : 1200,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 5,
+			"y" : 6
+		}
+	},
+	{
+		"comment"     : "Apple II to FHD; AR correction is impossible",
+		"areaWidth"   : 1920,
+		"areaHeight"  : 1080,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 5,
+			"y" : 5
+		}
+	},
+	{
+		"comment"     : "Apple II to HD+; AR correction is impossible",
+		"areaWidth"   : 1600,
+		"areaHeight"  : 900,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 4,
+			"y" : 4
+		}
+	},
+
+	{
 		"comment"     : "SNES to 8K",
 		"areaWidth"   : 7680,
 		"areaHeight"  : 4320,
