@@ -52,6 +52,19 @@
 		}
 	},
 	{
+		"comment"     : "DOS Mode 13h to 4.5x2.5K (iMac 2021); zero AR error",
+		"areaWidth"   : 4480,
+		"areaHeight"  : 2520,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 10,
+			"y" : 12
+		}
+	},
+	{
 		"comment"     : "DOS Mode 13h to Apple iMac 21.5 2020",
 		"areaWidth"   : 4096,
 		"areaHeight"  : 2304,
@@ -219,6 +232,19 @@
 		"ratios"      : {
 			"x" : 14,
 			"y" : 15
+		}
+	},
+	{
+		"comment"     : "Apple II to 4.5x2.5K (iMac 2021)",
+		"areaWidth"   : 4480,
+		"areaHeight"  : 2520,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 12,
+			"y" : 13
 		}
 	},
 	{
@@ -392,6 +418,19 @@
 		}
 	},
 	{
+		"comment"     : "SNES to 4.5x2.5K (iMac 2021)",
+		"areaWidth"   : 4480,
+		"areaHeight"  : 2520,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 13,
+			"y" : 11
+		}
+	},
+	{
 		"comment"     : "SNES to Apple iMac 21.5 2020",
 		"areaWidth"   : 4096,
 		"areaHeight"  : 2304,
@@ -559,6 +598,19 @@
 		"ratios"      : {
 			"x" : 12,
 			"y" : 13
+		}
+	},
+	{
+		"comment"     : "Genesis to 4.5x2.5K (iMac 2021)",
+		"areaWidth"   : 4480,
+		"areaHeight"  : 2520,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 10,
+			"y" : 11
 		}
 	},
 	{
@@ -732,6 +784,32 @@
 		}
 	},
 	{
+		"comment"     : "Midway T Unit (arcade MK series) to 4.5x2.5K (iMac 2021)",
+		"areaWidth"   : 4480,
+		"areaHeight"  : 2520,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 8,
+			"y" : 9
+		}
+	},
+	{
+		"comment"     : "Midway T Unit (arcade MK series) to 4.5x2.5K (iMac 2021) (1+1 pixels cropped vertically); zero height loss",
+		"areaWidth"   : 4480,
+		"areaHeight"  : 2520,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 8,
+			"y" : 10
+		}
+	},
+	{
 		"comment"     : "Midway T Unit (arcade MK series) to Apple iMac 21.5 2020",
 		"areaWidth"   : 4096,
 		"areaHeight"  : 2304,
@@ -899,6 +977,19 @@
 		"ratios"      : {
 			"x" : 10,
 			"y" : 13
+		}
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to 4.5x2.5K (iMac 2021)",
+		"areaWidth"   : 4480,
+		"areaHeight"  : 2520,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"ratios"      : {
+			"x" : 9,
+			"y" : 11
 		}
 	},
 	{
