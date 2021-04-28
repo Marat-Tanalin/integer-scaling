@@ -7,10 +7,8 @@
 		"imageHeight" : 200,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 18,
-			"y" : 21
-		}
+		"pixelWidth"  : 18,
+		"pixelHeight" : 21
 	},
 	{
 		"comment"     : "DOS Mode 13h to 6K (Apple XDR)",
@@ -20,10 +18,8 @@
 		"imageHeight" : 200,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 13,
-			"y" : 16
-		}
+		"pixelWidth"  : 13,
+		"pixelHeight" : 16
 	},
 	{
 		"comment"     : "DOS Mode 13h to 5K",
@@ -33,10 +29,8 @@
 		"imageHeight" : 200,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 12,
-			"y" : 14
-		}
+		"pixelWidth"  : 12,
+		"pixelHeight" : 14
 	},
 	{
 		"comment"     : "DOS Mode 13h to 4.5x3K (MS Surface Studio)",
@@ -46,10 +40,8 @@
 		"imageHeight" : 200,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 13,
-			"y" : 15
-		}
+		"pixelWidth"  : 13,
+		"pixelHeight" : 15
 	},
 	{
 		"comment"     : "DOS Mode 13h to 4.5x2.5K (iMac 2021); zero AR error",
@@ -59,10 +51,8 @@
 		"imageHeight" : 200,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 10,
-			"y" : 12
-		}
+		"pixelWidth"  : 10,
+		"pixelHeight" : 12
 	},
 	{
 		"comment"     : "DOS Mode 13h to Apple iMac 21.5 2020",
@@ -72,10 +62,8 @@
 		"imageHeight" : 200,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 9,
-			"y" : 11
-		}
+		"pixelWidth"  : 9,
+		"pixelHeight" : 11
 	},
 	{
 		"comment"     : "DOS Mode 13h to 4K",
@@ -85,10 +73,8 @@
 		"imageHeight" : 200,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 8,
-			"y" : 10
-		}
+		"pixelWidth"  : 8,
+		"pixelHeight" : 10
 	},
 	{
 		"comment"     : "DOS Mode 13h to 3K 16:10 (MacBook Pro 16 2019)",
@@ -98,10 +84,8 @@
 		"imageHeight" : 200,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 8,
-			"y" : 9
-		}
+		"pixelWidth"  : 8,
+		"pixelHeight" : 9
 	},
 	{
 		"comment"     : "DOS Mode 13h to WQXGA",
@@ -111,10 +95,8 @@
 		"imageHeight" : 200,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 7,
-			"y" : 8
-		}
+		"pixelWidth"  : 7,
+		"pixelHeight" : 8
 	},
 	{
 		"comment"     : "DOS Mode 13h to QXGA",
@@ -124,10 +106,8 @@
 		"imageHeight" : 200,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 6,
-			"y" : 7
-		}
+		"pixelWidth"  : 6,
+		"pixelHeight" : 7
 	},
 	{
 		"comment"     : "DOS Mode 13h to QHD",
@@ -137,10 +117,8 @@
 		"imageHeight" : 200,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 6,
-			"y" : 7
-		}
+		"pixelWidth"  : 6,
+		"pixelHeight" : 7
 	},
 	{
 		"comment"     : "DOS Mode 13h to WUXGA; zero AR error",
@@ -150,10 +128,8 @@
 		"imageHeight" : 200,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 5,
-			"y" : 6
-		}
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
 	},
 	{
 		"comment"     : "DOS Mode 13h to FHD",
@@ -163,10 +139,8 @@
 		"imageHeight" : 200,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 4,
-			"y" : 5
-		}
+		"pixelWidth"  : 4,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "DOS Mode 13h to HD+",
@@ -176,10 +150,8 @@
 		"imageHeight" : 200,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 3,
-			"y" : 4
-		}
+		"pixelWidth"  : 3,
+		"pixelHeight" : 4
 	},
 
 	{
@@ -190,10 +162,8 @@
 		"imageHeight" : 192,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 20,
-			"y" : 22
-		}
+		"pixelWidth"  : 20,
+		"pixelHeight" : 22
 	},
 	{
 		"comment"     : "Apple II to 6K (Apple XDR)",
@@ -203,10 +173,8 @@
 		"imageHeight" : 192,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 16,
-			"y" : 17
-		}
+		"pixelWidth"  : 16,
+		"pixelHeight" : 17
 	},
 	{
 		"comment"     : "Apple II to 5K; zero height loss",
@@ -216,10 +184,8 @@
 		"imageHeight" : 192,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 14,
-			"y" : 15
-		}
+		"pixelWidth"  : 14,
+		"pixelHeight" : 15
 	},
 	{
 		"comment"     : "Apple II to 4.5x3K (MS Surface Studio)",
@@ -229,10 +195,8 @@
 		"imageHeight" : 192,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 14,
-			"y" : 15
-		}
+		"pixelWidth"  : 14,
+		"pixelHeight" : 15
 	},
 	{
 		"comment"     : "Apple II to 4.5x2.5K (iMac 2021)",
@@ -242,10 +206,8 @@
 		"imageHeight" : 192,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 12,
-			"y" : 13
-		}
+		"pixelWidth"  : 12,
+		"pixelHeight" : 13
 	},
 	{
 		"comment"     : "Apple II to Apple iMac 21.5 2020; zero height loss",
@@ -255,10 +217,8 @@
 		"imageHeight" : 192,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 11,
-			"y" : 12
-		}
+		"pixelWidth"  : 11,
+		"pixelHeight" : 12
 	},
 	{
 		"comment"     : "Apple II to 4K",
@@ -268,10 +228,8 @@
 		"imageHeight" : 192,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 10,
-			"y" : 11
-		}
+		"pixelWidth"  : 10,
+		"pixelHeight" : 11
 	},
 	{
 		"comment"     : "Apple II to 3K 16:10 (MacBook Pro 16 2019); zero height loss",
@@ -281,10 +239,8 @@
 		"imageHeight" : 192,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 9,
-			"y" : 10
-		}
+		"pixelWidth"  : 9,
+		"pixelHeight" : 10
 	},
 	{
 		"comment"     : "Apple II to WQXGA",
@@ -294,10 +250,8 @@
 		"imageHeight" : 192,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 7,
-			"y" : 8
-		}
+		"pixelWidth"  : 7,
+		"pixelHeight" : 8
 	},
 	{
 		"comment"     : "Apple II to QXGA; zero height loss",
@@ -307,10 +261,8 @@
 		"imageHeight" : 192,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 7,
-			"y" : 8
-		}
+		"pixelWidth"  : 7,
+		"pixelHeight" : 8
 	},
 	{
 		"comment"     : "Apple II to QHD",
@@ -320,10 +272,8 @@
 		"imageHeight" : 192,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 6,
-			"y" : 7
-		}
+		"pixelWidth"  : 6,
+		"pixelHeight" : 7
 	},
 	{
 		"comment"     : "Apple II to WUXGA",
@@ -333,10 +283,8 @@
 		"imageHeight" : 192,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 5,
-			"y" : 6
-		}
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
 	},
 	{
 		"comment"     : "Apple II to FHD; AR correction is impossible",
@@ -346,10 +294,8 @@
 		"imageHeight" : 192,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 5,
-			"y" : 5
-		}
+		"pixelWidth"  : 5,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "Apple II to HD+; AR correction is impossible",
@@ -359,10 +305,8 @@
 		"imageHeight" : 192,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 4,
-			"y" : 4
-		}
+		"pixelWidth"  : 4,
+		"pixelHeight" : 4
 	},
 
 	{
@@ -373,10 +317,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 22,
-			"y" : 19
-		}
+		"pixelWidth"  : 22,
+		"pixelHeight" : 19
 	},
 	{
 		"comment"     : "SNES to 6K (Apple XDR)",
@@ -386,10 +328,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 17,
-			"y" : 15
-		}
+		"pixelWidth"  : 17,
+		"pixelHeight" : 15
 	},
 	{
 		"comment"     : "SNES to 5K; zero AR error",
@@ -399,10 +339,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 14,
-			"y" : 12
-		}
+		"pixelWidth"  : 14,
+		"pixelHeight" : 12
 	},
 	{
 		"comment"     : "SNES to 4.5x3K (MS Surface Studio)",
@@ -412,10 +350,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 15,
-			"y" : 13
-		}
+		"pixelWidth"  : 15,
+		"pixelHeight" : 13
 	},
 	{
 		"comment"     : "SNES to 4.5x2.5K (iMac 2021)",
@@ -425,10 +361,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 13,
-			"y" : 11
-		}
+		"pixelWidth"  : 13,
+		"pixelHeight" : 11
 	},
 	{
 		"comment"     : "SNES to Apple iMac 21.5 2020",
@@ -438,10 +372,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 12,
-			"y" : 10
-		}
+		"pixelWidth"  : 12,
+		"pixelHeight" : 10
 	},
 	{
 		"comment"     : "SNES to 4K",
@@ -451,10 +383,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 10,
-			"y" : 9
-		}
+		"pixelWidth"  : 10,
+		"pixelHeight" : 9
 	},
 	{
 		"comment"     : "SNES to 3K 16:10 (MacBook Pro 16 2019)",
@@ -464,10 +394,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 9,
-			"y" : 8
-		}
+		"pixelWidth"  : 9,
+		"pixelHeight" : 8
 	},
 	{
 		"comment"     : "SNES to WQXGA",
@@ -477,10 +405,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 8,
-			"y" : 7
-		}
+		"pixelWidth"  : 8,
+		"pixelHeight" : 7
 	},
 	{
 		"comment"     : "SNES to QXGA; zero AR error",
@@ -490,10 +416,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 7,
-			"y" : 6
-		}
+		"pixelWidth"  : 7,
+		"pixelHeight" : 6
 	},
 	{
 		"comment"     : "SNES to QHD; zero AR error",
@@ -503,10 +427,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 7,
-			"y" : 6
-		}
+		"pixelWidth"  : 7,
+		"pixelHeight" : 6
 	},
 	{
 		"comment"     : "SNES to WUXGA",
@@ -516,10 +438,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 6,
-			"y" : 5
-		}
+		"pixelWidth"  : 6,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "SNES to FHD",
@@ -529,10 +449,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 5,
-			"y" : 4
-		}
+		"pixelWidth"  : 5,
+		"pixelHeight" : 4
 	},
 	{
 		"comment"     : "SNES to HD+",
@@ -542,10 +460,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 5,
-			"y" : 4
-		}
+		"pixelWidth"  : 5,
+		"pixelHeight" : 4
 	},
 
 	{
@@ -556,10 +472,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 18,
-			"y" : 19
-		}
+		"pixelWidth"  : 18,
+		"pixelHeight" : 19
 	},
 	{
 		"comment"     : "Genesis to 6K (Apple XDR)",
@@ -569,10 +483,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 14,
-			"y" : 15
-		}
+		"pixelWidth"  : 14,
+		"pixelHeight" : 15
 	},
 	{
 		"comment"     : "Genesis to 5K",
@@ -582,10 +494,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 11,
-			"y" : 12
-		}
+		"pixelWidth"  : 11,
+		"pixelHeight" : 12
 	},
 	{
 		"comment"     : "Genesis to 4.5x3K (MS Surface Studio)",
@@ -595,10 +505,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 12,
-			"y" : 13
-		}
+		"pixelWidth"  : 12,
+		"pixelHeight" : 13
 	},
 	{
 		"comment"     : "Genesis to 4.5x2.5K (iMac 2021)",
@@ -608,10 +516,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 10,
-			"y" : 11
-		}
+		"pixelWidth"  : 10,
+		"pixelHeight" : 11
 	},
 	{
 		"comment"     : "Genesis to Apple iMac 21.5 2020",
@@ -621,10 +527,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 9,
-			"y" : 10
-		}
+		"pixelWidth"  : 9,
+		"pixelHeight" : 10
 	},
 	{
 		"comment"     : "Genesis to 4K",
@@ -634,10 +538,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 8,
-			"y" : 9
-		}
+		"pixelWidth"  : 8,
+		"pixelHeight" : 9
 	},
 	{
 		"comment"     : "Genesis to 3K 16:10 (MacBook Pro 16 2019)",
@@ -647,10 +549,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 7,
-			"y" : 8
-		}
+		"pixelWidth"  : 7,
+		"pixelHeight" : 8
 	},
 	{
 		"comment"     : "Genesis to WQXGA; AR correction is impossible",
@@ -660,10 +560,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 7,
-			"y" : 7
-		}
+		"pixelWidth"  : 7,
+		"pixelHeight" : 7
 	},
 	{
 		"comment"     : "Genesis to QXGA; AR correction is impossible",
@@ -673,10 +571,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 6,
-			"y" : 6
-		}
+		"pixelWidth"  : 6,
+		"pixelHeight" : 6
 	},
 	{
 		"comment"     : "Genesis to QHD; AR correction is impossible",
@@ -686,10 +582,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 6,
-			"y" : 6
-		}
+		"pixelWidth"  : 6,
+		"pixelHeight" : 6
 	},
 	{
 		"comment"     : "Genesis to WUXGA; AR correction is impossible",
@@ -699,10 +593,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 5,
-			"y" : 5
-		}
+		"pixelWidth"  : 5,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "Genesis to FHD; AR correction is impossible",
@@ -712,10 +604,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 4,
-			"y" : 4
-		}
+		"pixelWidth"  : 4,
+		"pixelHeight" : 4
 	},
 	{
 		"comment"     : "Genesis to HD+; AR correction is impossible",
@@ -725,10 +615,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 4,
-			"y" : 4
-		}
+		"pixelWidth"  : 4,
+		"pixelHeight" : 4
 	},
 
 	{
@@ -739,10 +627,8 @@
 		"imageHeight" : 254,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 14,
-			"y" : 17
-		}
+		"pixelWidth"  : 14,
+		"pixelHeight" : 17
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to 6K (Apple XDR)",
@@ -752,10 +638,8 @@
 		"imageHeight" : 254,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 11,
-			"y" : 13
-		}
+		"pixelWidth"  : 11,
+		"pixelHeight" : 13
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to 5K",
@@ -765,10 +649,8 @@
 		"imageHeight" : 254,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 9,
-			"y" : 11
-		}
+		"pixelWidth"  : 9,
+		"pixelHeight" : 11
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to 4.5x3K (MS Surface Studio)",
@@ -778,10 +660,8 @@
 		"imageHeight" : 254,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 9,
-			"y" : 11
-		}
+		"pixelWidth"  : 9,
+		"pixelHeight" : 11
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to 4.5x2.5K (iMac 2021)",
@@ -791,10 +671,8 @@
 		"imageHeight" : 254,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 8,
-			"y" : 9
-		}
+		"pixelWidth"  : 8,
+		"pixelHeight" : 9
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to 4.5x2.5K (iMac 2021) (1+1 pixels cropped vertically); zero height loss",
@@ -804,10 +682,8 @@
 		"imageHeight" : 254,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 8,
-			"y" : 10
-		}
+		"pixelWidth"  : 8,
+		"pixelHeight" : 10
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to Apple iMac 21.5 2020",
@@ -817,10 +693,8 @@
 		"imageHeight" : 254,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 8,
-			"y" : 9
-		}
+		"pixelWidth"  : 8,
+		"pixelHeight" : 9
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to 4K",
@@ -830,10 +704,8 @@
 		"imageHeight" : 254,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 7,
-			"y" : 8
-		}
+		"pixelWidth"  : 7,
+		"pixelHeight" : 8
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to 3K 16:10 (MacBook Pro 16 2019)",
@@ -843,10 +715,8 @@
 		"imageHeight" : 254,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 6,
-			"y" : 7
-		}
+		"pixelWidth"  : 6,
+		"pixelHeight" : 7
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to WQXGA",
@@ -856,10 +726,8 @@
 		"imageHeight" : 254,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 5,
-			"y" : 6
-		}
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to QXGA",
@@ -869,10 +737,8 @@
 		"imageHeight" : 254,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 5,
-			"y" : 6
-		}
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to QHD",
@@ -882,10 +748,8 @@
 		"imageHeight" : 254,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 4,
-			"y" : 5
-		}
+		"pixelWidth"  : 4,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to WUXGA",
@@ -895,10 +759,8 @@
 		"imageHeight" : 254,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 3,
-			"y" : 4
-		}
+		"pixelWidth"  : 3,
+		"pixelHeight" : 4
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to FHD",
@@ -908,10 +770,8 @@
 		"imageHeight" : 254,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 3,
-			"y" : 4
-		}
+		"pixelWidth"  : 3,
+		"pixelHeight" : 4
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to HD+; AR correction is impossible",
@@ -921,10 +781,8 @@
 		"imageHeight" : 254,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 3,
-			"y" : 3
-		}
+		"pixelWidth"  : 3,
+		"pixelHeight" : 3
 	},
 
 	{
@@ -935,10 +793,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 15,
-			"y" : 19
-		}
+		"pixelWidth"  : 15,
+		"pixelHeight" : 19
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to 6K (Apple XDR)",
@@ -948,10 +804,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 12,
-			"y" : 15
-		}
+		"pixelWidth"  : 12,
+		"pixelHeight" : 15
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to 5K",
@@ -961,10 +815,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 9,
-			"y" : 12
-		}
+		"pixelWidth"  : 9,
+		"pixelHeight" : 12
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to 4.5x3K (MS Surface Studio)",
@@ -974,10 +826,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 10,
-			"y" : 13
-		}
+		"pixelWidth"  : 10,
+		"pixelHeight" : 13
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to 4.5x2.5K (iMac 2021)",
@@ -987,10 +837,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 9,
-			"y" : 11
-		}
+		"pixelWidth"  : 9,
+		"pixelHeight" : 11
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to Apple iMac 21.5 2020",
@@ -1000,10 +848,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 8,
-			"y" : 10
-		}
+		"pixelWidth"  : 8,
+		"pixelHeight" : 10
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to 4K; zero AR error",
@@ -1013,10 +859,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 7,
-			"y" : 9
-		}
+		"pixelWidth"  : 7,
+		"pixelHeight" : 9
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to 3K 16:10 (MacBook Pro 16 2019)",
@@ -1026,10 +870,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 6,
-			"y" : 8
-		}
+		"pixelWidth"  : 6,
+		"pixelHeight" : 8
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to WQXGA",
@@ -1039,10 +881,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 5,
-			"y" : 7
-		}
+		"pixelWidth"  : 5,
+		"pixelHeight" : 7
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to QXGA",
@@ -1052,10 +892,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 5,
-			"y" : 6
-		}
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to QHD",
@@ -1065,10 +903,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 5,
-			"y" : 6
-		}
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to WUXGA",
@@ -1078,10 +914,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 4,
-			"y" : 5
-		}
+		"pixelWidth"  : 4,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to FHD",
@@ -1091,10 +925,8 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 3,
-			"y" : 4
-		}
+		"pixelWidth"  : 3,
+		"pixelHeight" : 4
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to HD+",
@@ -1104,9 +936,7 @@
 		"imageHeight" : 224,
 		"aspectX"     : 4,
 		"aspectY"     : 3,
-		"ratios"      : {
-			"x" : 3,
-			"y" : 4
-		}
+		"pixelWidth"  : 3,
+		"pixelHeight" : 4
 	}
 ]
