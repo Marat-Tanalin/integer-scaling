@@ -99,6 +99,17 @@
 		"pixelHeight" : 9
 	},
 	{
+		"comment"     : "DOS Mode 13h to 2.7Kx2K (4:3) (iPad Pro 2021)",
+		"areaWidth"   : 2732,
+		"areaHeight"  : 2048,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 8,
+		"pixelHeight" : 10
+	},
+	{
 		"comment"     : "DOS Mode 13h to WQXGA",
 		"areaWidth"   : 2560,
 		"areaHeight"  : 1600,
@@ -263,6 +274,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 8,
 		"pixelHeight" : 9
+	},
+	{
+		"comment"     : "Apple II to 2.7Kx2K (4:3) (iPad Pro 2021)",
+		"areaWidth"   : 2732,
+		"areaHeight"  : 2048,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 9,
+		"pixelHeight" : 10
 	},
 	{
 		"comment"     : "Apple II to WQXGA",
@@ -431,6 +453,17 @@
 		"pixelHeight" : 8
 	},
 	{
+		"comment"     : "SNES to 2.7Kx2K (4:3) (iPad Pro 2021)",
+		"areaWidth"   : 2732,
+		"areaHeight"  : 2048,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 10,
+		"pixelHeight" : 9
+	},
+	{
 		"comment"     : "SNES to WQXGA",
 		"areaWidth"   : 2560,
 		"areaHeight"  : 1600,
@@ -595,6 +628,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 7,
 		"pixelHeight" : 8
+	},
+	{
+		"comment"     : "Genesis to 2.7Kx2K (4:3) (iPad Pro 2021)",
+		"areaWidth"   : 2732,
+		"areaHeight"  : 2048,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 8,
+		"pixelHeight" : 9
 	},
 	{
 		"comment"     : "Genesis to WQXGA; AR correction is impossible",
@@ -775,6 +819,29 @@
 		"pixelHeight" : 7
 	},
 	{
+		"comment"     : "Midway T Unit (arcade MK series) to 2.7Kx2K (4:3) (iPad Pro 2021)",
+		"areaWidth"   : 2732,
+		"areaHeight"  : 2048,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 6,
+		"pixelHeight" : 7
+	},
+	{
+		"comment"     : "Midway T Unit (arcade MK series) to 2.7Kx2K (iPad Pro 2021) (4:3) (5+5 pixels cropped horizontally)",
+		"areaWidth"   : 2732,
+		"areaHeight"  : 2048,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"imageCropX"  : 10,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 7,
+		"pixelHeight" : 8
+	},
+	{
 		"comment"     : "Midway T Unit (arcade MK series) to WQXGA",
 		"areaWidth"   : 2560,
 		"areaHeight"  : 1600,
@@ -939,6 +1006,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 6,
 		"pixelHeight" : 8
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to 2.7Kx2K (4:3) (iPad Pro 2021); zero AR error",
+		"areaWidth"   : 2732,
+		"areaHeight"  : 2048,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 7,
+		"pixelHeight" : 9
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to WQXGA",
