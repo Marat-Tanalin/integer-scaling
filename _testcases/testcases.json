@@ -121,6 +121,29 @@
 		"pixelHeight" : 8
 	},
 	{
+		"comment"     : "DOS Mode 13h to 2.5Kx1.2K (iPhone 12)",
+		"areaWidth"   : 2532,
+		"areaHeight"  : 1170,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 4,
+		"pixelHeight" : 5
+	},
+	{
+		"comment"     : "DOS Mode 13h to 2.5Kx1.2K (iPhone 12) (5 pixels cropped vertically)",
+		"areaWidth"   : 2532,
+		"areaHeight"  : 1170,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"imageCropY"  : 5,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
+	},
+	{
 		"comment"     : "DOS Mode 13h to QXGA",
 		"areaWidth"   : 2048,
 		"areaHeight"  : 1536,
@@ -296,6 +319,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 7,
 		"pixelHeight" : 8
+	},
+	{
+		"comment"     : "Apple II to 2.5Kx1.2K (iPhone 12)",
+		"areaWidth"   : 2532,
+		"areaHeight"  : 1170,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
 	},
 	{
 		"comment"     : "Apple II to QXGA; zero height loss",
@@ -475,6 +509,17 @@
 		"pixelHeight" : 7
 	},
 	{
+		"comment"     : "SNES to 2.5Kx1.2K (iPhone 12)",
+		"areaWidth"   : 2532,
+		"areaHeight"  : 1170,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 6,
+		"pixelHeight" : 5
+	},
+	{
 		"comment"     : "SNES to QXGA; zero AR error",
 		"areaWidth"   : 2048,
 		"areaHeight"  : 1536,
@@ -650,6 +695,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 7,
 		"pixelHeight" : 7
+	},
+	{
+		"comment"     : "Genesis to 2.5Kx1.2K (iPhone 12); AR correction is impossible",
+		"areaWidth"   : 2532,
+		"areaHeight"  : 1170,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "Genesis to QXGA; AR correction is impossible",
@@ -853,6 +909,17 @@
 		"pixelHeight" : 6
 	},
 	{
+		"comment"     : "Midway T Unit (arcade MK series) to 2.5Kx1.2K (iPhone 12)",
+		"areaWidth"   : 2532,
+		"areaHeight"  : 1170,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 3,
+		"pixelHeight" : 4
+	},
+	{
 		"comment"     : "Midway T Unit (arcade MK series) to QXGA",
 		"areaWidth"   : 2048,
 		"areaHeight"  : 1536,
@@ -1028,6 +1095,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 5,
 		"pixelHeight" : 7
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to 2.5Kx1.2K (iPhone 12)",
+		"areaWidth"   : 2532,
+		"areaHeight"  : 1170,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 4,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to QXGA",
