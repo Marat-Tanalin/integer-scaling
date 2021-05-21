@@ -99,7 +99,7 @@
 		"pixelHeight" : 9
 	},
 	{
-		"comment"     : "DOS Mode 13h to 2.7Kx2K (4:3) (iPad Pro 2021)",
+		"comment"     : "DOS Mode 13h to 2.7Kx2K (4:3) (iPad Pro 2021 12.9\")",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 320,
@@ -164,6 +164,29 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 6,
 		"pixelHeight" : 7
+	},
+	{
+		"comment"     : "DOS Mode 13h to 2.2Kx1.7K (4:3) (iPad Pro 2021 11\")",
+		"areaWidth"   : 2224,
+		"areaHeight"  : 1668,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 6,
+		"pixelHeight" : 7
+	},
+	{
+		"comment"     : "DOS Mode 13h to 2.2Kx1.7K (4:3) (iPad Pro 2021 11\") (3 pixels cropped horizontally)",
+		"areaWidth"   : 2224,
+		"areaHeight"  : 1668,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"imageCropX"  : 3,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 7,
+		"pixelHeight" : 8
 	},
 	{
 		"comment"     : "DOS Mode 13h to WUXGA; zero AR error",
@@ -299,7 +322,7 @@
 		"pixelHeight" : 9
 	},
 	{
-		"comment"     : "Apple II to 2.7Kx2K (4:3) (iPad Pro 2021)",
+		"comment"     : "Apple II to 2.7Kx2K (4:3) (iPad Pro 2021 12.9\")",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 280,
@@ -352,6 +375,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 6,
 		"pixelHeight" : 7
+	},
+	{
+		"comment"     : "Apple II to 2.2Kx1.7K (4:3) (iPad Pro 2021 11\")",
+		"areaWidth"   : 2224,
+		"areaHeight"  : 1668,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 7,
+		"pixelHeight" : 8
 	},
 	{
 		"comment"     : "Apple II to WUXGA",
@@ -487,7 +521,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "SNES to 2.7Kx2K (4:3) (iPad Pro 2021)",
+		"comment"     : "SNES to 2.7Kx2K (4:3) (iPad Pro 2021 12.9\")",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 256,
@@ -540,6 +574,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 7,
 		"pixelHeight" : 6
+	},
+	{
+		"comment"     : "SNES to 2.2Kx1.7K (4:3) (iPad Pro 2021 11\")",
+		"areaWidth"   : 2224,
+		"areaHeight"  : 1668,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 8,
+		"pixelHeight" : 7
 	},
 	{
 		"comment"     : "SNES to WUXGA",
@@ -675,7 +720,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "Genesis to 2.7Kx2K (4:3) (iPad Pro 2021)",
+		"comment"     : "Genesis to 2.7Kx2K (4:3) (iPad Pro 2021 12.9\")",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 320,
@@ -728,6 +773,29 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 6,
 		"pixelHeight" : 6
+	},
+	{
+		"comment"     : "Genesis to 2.2Kx1.7K (4:3) (iPad Pro 2021 11\"); AR correction is impossible",
+		"areaWidth"   : 2224,
+		"areaHeight"  : 1668,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 6,
+		"pixelHeight" : 6
+	},
+	{
+		"comment"     : "Genesis to 2.2Kx1.7K (4:3) (iPad Pro 2021 11\") (3 pixels cropped horizontally); AR correction is impossible",
+		"areaWidth"   : 2224,
+		"areaHeight"  : 1668,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"imageCropX"  : 3,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 7,
+		"pixelHeight" : 7
 	},
 	{
 		"comment"     : "Genesis to WUXGA; AR correction is impossible",
@@ -875,7 +943,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to 2.7Kx2K (4:3) (iPad Pro 2021)",
+		"comment"     : "Midway T Unit (arcade MK series) to 2.7Kx2K (4:3) (iPad Pro 2021 12.9\")",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 400,
@@ -886,7 +954,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to 2.7Kx2K (iPad Pro 2021) (4:3) (5+5 pixels cropped horizontally)",
+		"comment"     : "Midway T Unit (arcade MK series) to 2.7Kx2K (iPad Pro 2021 12.9\") (4:3) (5+5 pixels cropped horizontally)",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 400,
@@ -940,6 +1008,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 4,
 		"pixelHeight" : 5
+	},
+	{
+		"comment"     : "Midway T Unit (arcade MK series) to 2.2Kx1.7K (4:3) (iPad Pro 2021 11\"); AR correction is impossible",
+		"areaWidth"   : 2224,
+		"areaHeight"  : 1668,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to WUXGA",
@@ -1075,7 +1154,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "Capcom CPS (arcade SF series) to 2.7Kx2K (4:3) (iPad Pro 2021); zero AR error",
+		"comment"     : "Capcom CPS (arcade SF series) to 2.7Kx2K (4:3) (iPad Pro 2021 12.9\"); zero AR error",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 384,
@@ -1128,6 +1207,29 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 5,
 		"pixelHeight" : 6
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to 2.2Kx1.7K (4:3) (iPad Pro 2021 11\")",
+		"areaWidth"   : 2224,
+		"areaHeight"  : 1668,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to 2.2Kx1.7K (4:3) (iPad Pro 2021 11\") (7+7 pixels cropped horizontally)",
+		"areaWidth"   : 2224,
+		"areaHeight"  : 1668,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"imageCropX"  : 14,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 7
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to WUXGA",
