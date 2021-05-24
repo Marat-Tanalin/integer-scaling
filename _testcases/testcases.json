@@ -11,7 +11,7 @@
 		"pixelHeight" : 21
 	},
 	{
-		"comment"     : "DOS Mode 13h to 6K (Apple XDR)",
+		"comment"     : "DOS Mode 13h to Pro Display XDR",
 		"areaWidth"   : 6016,
 		"areaHeight"  : 3384,
 		"imageWidth"  : 320,
@@ -33,7 +33,7 @@
 		"pixelHeight" : 14
 	},
 	{
-		"comment"     : "DOS Mode 13h to 4.5x3K (MS Surface Studio)",
+		"comment"     : "DOS Mode 13h to Surface Studio 1/2",
 		"areaWidth"   : 4500,
 		"areaHeight"  : 3000,
 		"imageWidth"  : 320,
@@ -44,7 +44,7 @@
 		"pixelHeight" : 15
 	},
 	{
-		"comment"     : "DOS Mode 13h to 4.5x2.5K (iMac 2021); zero AR error",
+		"comment"     : "DOS Mode 13h to iMac 2021; zero AR error",
 		"areaWidth"   : 4480,
 		"areaHeight"  : 2520,
 		"imageWidth"  : 320,
@@ -77,7 +77,7 @@
 		"pixelHeight" : 10
 	},
 	{
-		"comment"     : "DOS Mode 13h to 3K 16:10 (MacBook Pro 16 2019)",
+		"comment"     : "DOS Mode 13h to MacBook Pro 16 2019",
 		"areaWidth"   : 3072,
 		"areaHeight"  : 1920,
 		"imageWidth"  : 320,
@@ -88,7 +88,7 @@
 		"pixelHeight" : 9
 	},
 	{
-		"comment"     : "DOS Mode 13h to 2.9Kx1.8K (MacBook Pro 15)",
+		"comment"     : "DOS Mode 13h to MacBook Pro 15",
 		"areaWidth"   : 2880,
 		"areaHeight"  : 1800,
 		"imageWidth"  : 320,
@@ -99,7 +99,7 @@
 		"pixelHeight" : 9
 	},
 	{
-		"comment"     : "DOS Mode 13h to 2.7Kx2K (4:3) (iPad Pro 2021 12.9\")",
+		"comment"     : "DOS Mode 13h to iPad Pro 2021 12.9\" (4:3)",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 320,
@@ -121,7 +121,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "DOS Mode 13h to 2.5Kx1.2K (iPhone 12)",
+		"comment"     : "DOS Mode 13h to iPhone 12",
 		"areaWidth"   : 2532,
 		"areaHeight"  : 1170,
 		"imageWidth"  : 320,
@@ -132,7 +132,7 @@
 		"pixelHeight" : 5
 	},
 	{
-		"comment"     : "DOS Mode 13h to 2.5Kx1.2K (iPhone 12) (5 pixels cropped vertically)",
+		"comment"     : "DOS Mode 13h to iPhone 12 (5 pixels cropped vertically)",
 		"areaWidth"   : 2532,
 		"areaHeight"  : 1170,
 		"imageWidth"  : 320,
@@ -188,7 +188,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "DOS Mode 13h to 2.2Kx1.7K (4:3) (iPad Pro 2021 11\")",
+		"comment"     : "DOS Mode 13h to iPad Pro 2021 11\" (4:3)",
 		"areaWidth"   : 2224,
 		"areaHeight"  : 1668,
 		"imageWidth"  : 320,
@@ -199,7 +199,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "DOS Mode 13h to 2.2Kx1.7K (4:3) (iPad Pro 2021 11\") (3 pixels cropped horizontally)",
+		"comment"     : "DOS Mode 13h to iPad Pro 2021 11\" (4:3) (3 pixels cropped horizontally)",
 		"areaWidth"   : 2224,
 		"areaHeight"  : 1668,
 		"imageWidth"  : 320,
@@ -256,7 +256,7 @@
 		"pixelHeight" : 22
 	},
 	{
-		"comment"     : "Apple II to 6K (Apple XDR)",
+		"comment"     : "Apple II to Pro Display XDR",
 		"areaWidth"   : 6016,
 		"areaHeight"  : 3384,
 		"imageWidth"  : 280,
@@ -278,7 +278,7 @@
 		"pixelHeight" : 15
 	},
 	{
-		"comment"     : "Apple II to 4.5x3K (MS Surface Studio)",
+		"comment"     : "Apple II to Surface Studio 1/2",
 		"areaWidth"   : 4500,
 		"areaHeight"  : 3000,
 		"imageWidth"  : 280,
@@ -289,7 +289,7 @@
 		"pixelHeight" : 15
 	},
 	{
-		"comment"     : "Apple II to 4.5x2.5K (iMac 2021)",
+		"comment"     : "Apple II to iMac 2021",
 		"areaWidth"   : 4480,
 		"areaHeight"  : 2520,
 		"imageWidth"  : 280,
@@ -322,7 +322,7 @@
 		"pixelHeight" : 11
 	},
 	{
-		"comment"     : "Apple II to 3K 16:10 (MacBook Pro 16 2019); zero height loss",
+		"comment"     : "Apple II to MacBook Pro 16 2019; zero height loss",
 		"areaWidth"   : 3072,
 		"areaHeight"  : 1920,
 		"imageWidth"  : 280,
@@ -333,7 +333,7 @@
 		"pixelHeight" : 10
 	},
 	{
-		"comment"     : "Apple II to 2.9Kx1.8K (MacBook Pro 15)",
+		"comment"     : "Apple II to MacBook Pro 15",
 		"areaWidth"   : 2880,
 		"areaHeight"  : 1800,
 		"imageWidth"  : 280,
@@ -344,7 +344,7 @@
 		"pixelHeight" : 9
 	},
 	{
-		"comment"     : "Apple II to 2.7Kx2K (4:3) (iPad Pro 2021 12.9\")",
+		"comment"     : "Apple II to iPad Pro 2021 12.9\" (4:3)",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 280,
@@ -366,7 +366,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "Apple II to 2.5Kx1.2K (iPhone 12)",
+		"comment"     : "Apple II to iPhone 12",
 		"areaWidth"   : 2532,
 		"areaHeight"  : 1170,
 		"imageWidth"  : 280,
@@ -433,7 +433,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "Apple II to 2.2Kx1.7K (4:3) (iPad Pro 2021 11\")",
+		"comment"     : "Apple II to iPad Pro 2021 11\" (4:3)",
 		"areaWidth"   : 2224,
 		"areaHeight"  : 1668,
 		"imageWidth"  : 280,
@@ -489,7 +489,7 @@
 		"pixelHeight" : 19
 	},
 	{
-		"comment"     : "SNES to 6K (Apple XDR)",
+		"comment"     : "SNES to Pro Display XDR",
 		"areaWidth"   : 6016,
 		"areaHeight"  : 3384,
 		"imageWidth"  : 256,
@@ -511,7 +511,7 @@
 		"pixelHeight" : 12
 	},
 	{
-		"comment"     : "SNES to 4.5x3K (MS Surface Studio)",
+		"comment"     : "SNES to Surface Studio 1/2",
 		"areaWidth"   : 4500,
 		"areaHeight"  : 3000,
 		"imageWidth"  : 256,
@@ -522,7 +522,7 @@
 		"pixelHeight" : 13
 	},
 	{
-		"comment"     : "SNES to 4.5x2.5K (iMac 2021)",
+		"comment"     : "SNES to iMac 2021",
 		"areaWidth"   : 4480,
 		"areaHeight"  : 2520,
 		"imageWidth"  : 256,
@@ -555,7 +555,7 @@
 		"pixelHeight" : 9
 	},
 	{
-		"comment"     : "SNES to 3K 16:10 (MacBook Pro 16 2019)",
+		"comment"     : "SNES to MacBook Pro 16 2019",
 		"areaWidth"   : 3072,
 		"areaHeight"  : 1920,
 		"imageWidth"  : 256,
@@ -566,7 +566,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "SNES to 2.9Kx1.8K (MacBook Pro 15)",
+		"comment"     : "SNES to MacBook Pro 15",
 		"areaWidth"   : 2880,
 		"areaHeight"  : 1800,
 		"imageWidth"  : 256,
@@ -577,7 +577,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "SNES to 2.7Kx2K (4:3) (iPad Pro 2021 12.9\")",
+		"comment"     : "SNES to iPad Pro 2021 12.9\" (4:3)",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 256,
@@ -599,7 +599,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "SNES to 2.5Kx1.2K (iPhone 12)",
+		"comment"     : "SNES to iPhone 12",
 		"areaWidth"   : 2532,
 		"areaHeight"  : 1170,
 		"imageWidth"  : 256,
@@ -654,7 +654,7 @@
 		"pixelHeight" : 6
 	},
 	{
-		"comment"     : "SNES to 2.2Kx1.7K (4:3) (iPad Pro 2021 11\")",
+		"comment"     : "SNES to iPad Pro 2021 11\" (4:3)",
 		"areaWidth"   : 2224,
 		"areaHeight"  : 1668,
 		"imageWidth"  : 256,
@@ -710,7 +710,7 @@
 		"pixelHeight" : 19
 	},
 	{
-		"comment"     : "Genesis to 6K (Apple XDR)",
+		"comment"     : "Genesis to Pro Display XDR",
 		"areaWidth"   : 6016,
 		"areaHeight"  : 3384,
 		"imageWidth"  : 320,
@@ -732,7 +732,7 @@
 		"pixelHeight" : 12
 	},
 	{
-		"comment"     : "Genesis to 4.5x3K (MS Surface Studio)",
+		"comment"     : "Genesis to Surface Studio 1/2",
 		"areaWidth"   : 4500,
 		"areaHeight"  : 3000,
 		"imageWidth"  : 320,
@@ -743,7 +743,7 @@
 		"pixelHeight" : 13
 	},
 	{
-		"comment"     : "Genesis to 4.5x2.5K (iMac 2021)",
+		"comment"     : "Genesis to iMac 2021",
 		"areaWidth"   : 4480,
 		"areaHeight"  : 2520,
 		"imageWidth"  : 320,
@@ -776,7 +776,7 @@
 		"pixelHeight" : 9
 	},
 	{
-		"comment"     : "Genesis to 3K 16:10 (MacBook Pro 16 2019)",
+		"comment"     : "Genesis to MacBook Pro 16 2019",
 		"areaWidth"   : 3072,
 		"areaHeight"  : 1920,
 		"imageWidth"  : 320,
@@ -787,7 +787,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "Genesis to 2.9Kx1.8K (MacBook Pro 15)",
+		"comment"     : "Genesis to MacBook Pro 15",
 		"areaWidth"   : 2880,
 		"areaHeight"  : 1800,
 		"imageWidth"  : 320,
@@ -798,7 +798,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "Genesis to 2.7Kx2K (4:3) (iPad Pro 2021 12.9\")",
+		"comment"     : "Genesis to iPad Pro 2021 12.9\" (4:3)",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 320,
@@ -820,7 +820,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "Genesis to 2.5Kx1.2K (iPhone 12); AR correction is impossible",
+		"comment"     : "Genesis to iPhone 12; AR correction is impossible",
 		"areaWidth"   : 2532,
 		"areaHeight"  : 1170,
 		"imageWidth"  : 320,
@@ -875,7 +875,7 @@
 		"pixelHeight" : 6
 	},
 	{
-		"comment"     : "Genesis to 2.2Kx1.7K (4:3) (iPad Pro 2021 11\"); AR correction is impossible",
+		"comment"     : "Genesis to iPad Pro 2021 11\" (4:3); AR correction is impossible",
 		"areaWidth"   : 2224,
 		"areaHeight"  : 1668,
 		"imageWidth"  : 320,
@@ -886,7 +886,7 @@
 		"pixelHeight" : 6
 	},
 	{
-		"comment"     : "Genesis to 2.2Kx1.7K (4:3) (iPad Pro 2021 11\") (3 pixels cropped horizontally); AR correction is impossible",
+		"comment"     : "Genesis to iPad Pro 2021 11\" (4:3) (3 pixels cropped horizontally); AR correction is impossible",
 		"areaWidth"   : 2224,
 		"areaHeight"  : 1668,
 		"imageWidth"  : 320,
@@ -943,7 +943,7 @@
 		"pixelHeight" : 17
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to 6K (Apple XDR)",
+		"comment"     : "Midway T Unit (arcade MK series) to Pro Display XDR",
 		"areaWidth"   : 6016,
 		"areaHeight"  : 3384,
 		"imageWidth"  : 400,
@@ -965,7 +965,7 @@
 		"pixelHeight" : 11
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to 4.5x3K (MS Surface Studio)",
+		"comment"     : "Midway T Unit (arcade MK series) to Surface Studio 1/2",
 		"areaWidth"   : 4500,
 		"areaHeight"  : 3000,
 		"imageWidth"  : 400,
@@ -976,7 +976,7 @@
 		"pixelHeight" : 11
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to 4.5x2.5K (iMac 2021)",
+		"comment"     : "Midway T Unit (arcade MK series) to iMac 2021",
 		"areaWidth"   : 4480,
 		"areaHeight"  : 2520,
 		"imageWidth"  : 400,
@@ -987,7 +987,7 @@
 		"pixelHeight" : 9
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to 4.5x2.5K (iMac 2021) (1+1 pixels cropped vertically); zero height loss",
+		"comment"     : "Midway T Unit (arcade MK series) to iMac 2021 (1+1 pixels cropped vertically); zero height loss",
 		"areaWidth"   : 4480,
 		"areaHeight"  : 2520,
 		"imageWidth"  : 400,
@@ -1021,7 +1021,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to 3K 16:10 (MacBook Pro 16 2019)",
+		"comment"     : "Midway T Unit (arcade MK series) to MacBook Pro 16 2019",
 		"areaWidth"   : 3072,
 		"areaHeight"  : 1920,
 		"imageWidth"  : 400,
@@ -1032,7 +1032,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to 2.9Kx1.8K (MacBook Pro 15)",
+		"comment"     : "Midway T Unit (arcade MK series) to MacBook Pro 15",
 		"areaWidth"   : 2880,
 		"areaHeight"  : 1800,
 		"imageWidth"  : 400,
@@ -1043,7 +1043,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to 2.7Kx2K (4:3) (iPad Pro 2021 12.9\")",
+		"comment"     : "Midway T Unit (arcade MK series) to iPad Pro 2021 12.9\" (4:3)",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 400,
@@ -1054,7 +1054,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to 2.7Kx2K (iPad Pro 2021 12.9\") (4:3) (5+5 pixels cropped horizontally)",
+		"comment"     : "Midway T Unit (arcade MK series) to iPad Pro 2021 12.9\" (4:3) (5+5 pixels cropped horizontally)",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 400,
@@ -1077,7 +1077,7 @@
 		"pixelHeight" : 6
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to 2.5Kx1.2K (iPhone 12)",
+		"comment"     : "Midway T Unit (arcade MK series) to iPhone 12",
 		"areaWidth"   : 2532,
 		"areaHeight"  : 1170,
 		"imageWidth"  : 400,
@@ -1144,7 +1144,7 @@
 		"pixelHeight" : 5
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to 2.2Kx1.7K (4:3) (iPad Pro 2021 11\"); AR correction is impossible",
+		"comment"     : "Midway T Unit (arcade MK series) to iPad Pro 2021 11\" (4:3); AR correction is impossible",
 		"areaWidth"   : 2224,
 		"areaHeight"  : 1668,
 		"imageWidth"  : 400,
@@ -1200,7 +1200,7 @@
 		"pixelHeight" : 19
 	},
 	{
-		"comment"     : "Capcom CPS (arcade SF series) to 6K (Apple XDR)",
+		"comment"     : "Capcom CPS (arcade SF series) to Pro Display XDR",
 		"areaWidth"   : 6016,
 		"areaHeight"  : 3384,
 		"imageWidth"  : 384,
@@ -1222,7 +1222,7 @@
 		"pixelHeight" : 12
 	},
 	{
-		"comment"     : "Capcom CPS (arcade SF series) to 4.5x3K (MS Surface Studio)",
+		"comment"     : "Capcom CPS (arcade SF series) to Surface Studio 1/2",
 		"areaWidth"   : 4500,
 		"areaHeight"  : 3000,
 		"imageWidth"  : 384,
@@ -1233,7 +1233,7 @@
 		"pixelHeight" : 13
 	},
 	{
-		"comment"     : "Capcom CPS (arcade SF series) to 4.5x2.5K (iMac 2021)",
+		"comment"     : "Capcom CPS (arcade SF series) to iMac 2021",
 		"areaWidth"   : 4480,
 		"areaHeight"  : 2520,
 		"imageWidth"  : 384,
@@ -1266,7 +1266,7 @@
 		"pixelHeight" : 9
 	},
 	{
-		"comment"     : "Capcom CPS (arcade SF series) to 3K 16:10 (MacBook Pro 16 2019)",
+		"comment"     : "Capcom CPS (arcade SF series) to MacBook Pro 16 2019",
 		"areaWidth"   : 3072,
 		"areaHeight"  : 1920,
 		"imageWidth"  : 384,
@@ -1277,7 +1277,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "Capcom CPS (arcade SF series) to 2.9Kx1.8K (MacBook Pro 15)",
+		"comment"     : "Capcom CPS (arcade SF series) to MacBook Pro 15",
 		"areaWidth"   : 2880,
 		"areaHeight"  : 1800,
 		"imageWidth"  : 384,
@@ -1288,7 +1288,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "Capcom CPS (arcade SF series) to 2.7Kx2K (4:3) (iPad Pro 2021 12.9\"); zero AR error",
+		"comment"     : "Capcom CPS (arcade SF series) to iPad Pro 2021 12.9\" (4:3); zero AR error",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 384,
@@ -1310,7 +1310,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "Capcom CPS (arcade SF series) to 2.5Kx1.2K (iPhone 12)",
+		"comment"     : "Capcom CPS (arcade SF series) to iPhone 12",
 		"areaWidth"   : 2532,
 		"areaHeight"  : 1170,
 		"imageWidth"  : 384,
@@ -1365,7 +1365,7 @@
 		"pixelHeight" : 6
 	},
 	{
-		"comment"     : "Capcom CPS (arcade SF series) to 2.2Kx1.7K (4:3) (iPad Pro 2021 11\")",
+		"comment"     : "Capcom CPS (arcade SF series) to iPad Pro 2021 11\" (4:3)",
 		"areaWidth"   : 2224,
 		"areaHeight"  : 1668,
 		"imageWidth"  : 384,
@@ -1376,7 +1376,7 @@
 		"pixelHeight" : 6
 	},
 	{
-		"comment"     : "Capcom CPS (arcade SF series) to 2.2Kx1.7K (4:3) (iPad Pro 2021 11\") (7+7 pixels cropped horizontally)",
+		"comment"     : "Capcom CPS (arcade SF series) to iPad Pro 2021 11\" (4:3) (7+7 pixels cropped horizontally)",
 		"areaWidth"   : 2224,
 		"areaHeight"  : 1668,
 		"imageWidth"  : 384,
