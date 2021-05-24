@@ -144,6 +144,17 @@
 		"pixelHeight" : 6
 	},
 	{
+		"comment"     : "DOS Mode 13h to Surface Laptop 3/4 15\"",
+		"areaWidth"   : 2496,
+		"areaHeight"  : 1664,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 7,
+		"pixelHeight" : 8
+	},
+	{
 		"comment"     : "DOS Mode 13h to 2.25Kx1.5K (3:2) (Framework laptop)",
 		"areaWidth"   : 2256,
 		"areaHeight"  : 1504,
@@ -364,6 +375,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 5,
 		"pixelHeight" : 6
+	},
+	{
+		"comment"     : "Apple II to Surface Laptop 3/4 15\"",
+		"areaWidth"   : 2496,
+		"areaHeight"  : 1664,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 7,
+		"pixelHeight" : 8
 	},
 	{
 		"comment"     : "Apple II to 2.25Kx1.5K (3:2) (Framework laptop)",
@@ -588,6 +610,17 @@
 		"pixelHeight" : 5
 	},
 	{
+		"comment"     : "SNES to Surface Laptop 3/4 15\"",
+		"areaWidth"   : 2496,
+		"areaHeight"  : 1664,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 8,
+		"pixelHeight" : 7
+	},
+	{
 		"comment"     : "SNES to 2.25Kx1.5K (3:2) (Framework laptop); zero AR error",
 		"areaWidth"   : 2256,
 		"areaHeight"  : 1504,
@@ -796,6 +829,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 5,
 		"pixelHeight" : 5
+	},
+	{
+		"comment"     : "Genesis to Surface Laptop 3/4 15\"; AR correction is impossible",
+		"areaWidth"   : 2496,
+		"areaHeight"  : 1664,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 7,
+		"pixelHeight" : 7
 	},
 	{
 		"comment"     : "Genesis to 2.25Kx1.5K (3:2) (Framework laptop); AR correction is impossible",
@@ -1044,6 +1088,17 @@
 		"pixelHeight" : 4
 	},
 	{
+		"comment"     : "Midway T Unit (arcade MK series) to Surface Laptop 3/4 15\"",
+		"areaWidth"   : 2496,
+		"areaHeight"  : 1664,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
+	},
+	{
 		"comment"     : "Midway T Unit (arcade MK series) to 2.25Kx1.5K (3:2) (Framework laptop)",
 		"areaWidth"   : 2256,
 		"areaHeight"  : 1504,
@@ -1264,6 +1319,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 4,
 		"pixelHeight" : 5
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to Surface Laptop 3/4 15\"",
+		"areaWidth"   : 2496,
+		"areaHeight"  : 1664,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 7
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to 2.25Kx1.5K (3:2) (Framework laptop)",
