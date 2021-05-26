@@ -44,7 +44,7 @@
 		"pixelHeight" : 15
 	},
 	{
-		"comment"     : "DOS Mode 13h to iMac 2021; zero AR error",
+		"comment"     : "DOS Mode 13h to iMac 24\" (2021); zero AR error",
 		"areaWidth"   : 4480,
 		"areaHeight"  : 2520,
 		"imageWidth"  : 320,
@@ -55,7 +55,7 @@
 		"pixelHeight" : 12
 	},
 	{
-		"comment"     : "DOS Mode 13h to Apple iMac 21.5 2020",
+		"comment"     : "DOS Mode 13h to iMac 21.5\" (2020)",
 		"areaWidth"   : 4096,
 		"areaHeight"  : 2304,
 		"imageWidth"  : 320,
@@ -77,7 +77,7 @@
 		"pixelHeight" : 10
 	},
 	{
-		"comment"     : "DOS Mode 13h to MacBook Pro 16 2019",
+		"comment"     : "DOS Mode 13h to MacBook Pro 16\" (2019)",
 		"areaWidth"   : 3072,
 		"areaHeight"  : 1920,
 		"imageWidth"  : 320,
@@ -88,7 +88,7 @@
 		"pixelHeight" : 9
 	},
 	{
-		"comment"     : "DOS Mode 13h to MacBook Pro 15",
+		"comment"     : "DOS Mode 13h to MacBook Pro 15\" (2019)",
 		"areaWidth"   : 2880,
 		"areaHeight"  : 1800,
 		"imageWidth"  : 320,
@@ -99,7 +99,7 @@
 		"pixelHeight" : 9
 	},
 	{
-		"comment"     : "DOS Mode 13h to iPad Pro 2021 12.9\" (4:3)",
+		"comment"     : "DOS Mode 13h to iPad Pro 12.9\" (2021) (4:3)",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 320,
@@ -155,7 +155,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "DOS Mode 13h to Surface Laptop 1-4 13.5\", Framework laptop (3:2)",
+		"comment"     : "DOS Mode 13h to Surface Laptop 1-4 13.5\", Framework laptop",
 		"areaWidth"   : 2256,
 		"areaHeight"  : 1504,
 		"imageWidth"  : 320,
@@ -188,7 +188,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "DOS Mode 13h to iPad Pro 2021 11\" (4:3)",
+		"comment"     : "DOS Mode 13h to iPad Pro 11\" (2021) (4:3)",
 		"areaWidth"   : 2224,
 		"areaHeight"  : 1668,
 		"imageWidth"  : 320,
@@ -199,7 +199,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "DOS Mode 13h to iPad Pro 2021 11\" (4:3) (3 pixels cropped horizontally)",
+		"comment"     : "DOS Mode 13h to iPad Pro 11\" (2021) (4:3) (3 pixels cropped horizontally)",
 		"areaWidth"   : 2224,
 		"areaHeight"  : 1668,
 		"imageWidth"  : 320,
@@ -289,7 +289,7 @@
 		"pixelHeight" : 15
 	},
 	{
-		"comment"     : "Apple II to iMac 2021",
+		"comment"     : "Apple II to iMac 24\" (2021)",
 		"areaWidth"   : 4480,
 		"areaHeight"  : 2520,
 		"imageWidth"  : 280,
@@ -300,7 +300,7 @@
 		"pixelHeight" : 13
 	},
 	{
-		"comment"     : "Apple II to Apple iMac 21.5 2020; zero height loss",
+		"comment"     : "Apple II to iMac 21.5\" (2020); zero height loss",
 		"areaWidth"   : 4096,
 		"areaHeight"  : 2304,
 		"imageWidth"  : 280,
@@ -322,7 +322,7 @@
 		"pixelHeight" : 11
 	},
 	{
-		"comment"     : "Apple II to MacBook Pro 16 2019; zero height loss",
+		"comment"     : "Apple II to MacBook Pro 16\" (2019); zero height loss",
 		"areaWidth"   : 3072,
 		"areaHeight"  : 1920,
 		"imageWidth"  : 280,
@@ -333,7 +333,7 @@
 		"pixelHeight" : 10
 	},
 	{
-		"comment"     : "Apple II to MacBook Pro 15",
+		"comment"     : "Apple II to MacBook Pro 15\" (2019)",
 		"areaWidth"   : 2880,
 		"areaHeight"  : 1800,
 		"imageWidth"  : 280,
@@ -344,7 +344,7 @@
 		"pixelHeight" : 9
 	},
 	{
-		"comment"     : "Apple II to iPad Pro 2021 12.9\" (4:3)",
+		"comment"     : "Apple II to iPad Pro 12.9\" (2021) (4:3)",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 280,
@@ -388,7 +388,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "Apple II to Surface Laptop 1-4 13.5\", Framework laptop (3:2)",
+		"comment"     : "Apple II to Surface Laptop 1-4 13.5\", Framework laptop",
 		"areaWidth"   : 2256,
 		"areaHeight"  : 1504,
 		"imageWidth"  : 280,
@@ -399,7 +399,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "Apple II to Surface Laptop 1-4 13.5\", Framework laptop (3:2) (2+2 pixels cropped vertically); zero height loss",
+		"comment"     : "Apple II to Surface Laptop 1-4 13.5\", Framework laptop (2+2 pixels cropped vertically); zero height loss",
 		"areaWidth"   : 2256,
 		"areaHeight"  : 1504,
 		"imageWidth"  : 280,
@@ -433,7 +433,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "Apple II to iPad Pro 2021 11\" (4:3)",
+		"comment"     : "Apple II to iPad Pro 11\" (2021) (4:3)",
 		"areaWidth"   : 2224,
 		"areaHeight"  : 1668,
 		"imageWidth"  : 280,
@@ -522,7 +522,7 @@
 		"pixelHeight" : 13
 	},
 	{
-		"comment"     : "SNES to iMac 2021",
+		"comment"     : "SNES to iMac 24\" (2021)",
 		"areaWidth"   : 4480,
 		"areaHeight"  : 2520,
 		"imageWidth"  : 256,
@@ -533,7 +533,7 @@
 		"pixelHeight" : 11
 	},
 	{
-		"comment"     : "SNES to Apple iMac 21.5 2020",
+		"comment"     : "SNES to iMac 21.5\" (2020)",
 		"areaWidth"   : 4096,
 		"areaHeight"  : 2304,
 		"imageWidth"  : 256,
@@ -555,7 +555,7 @@
 		"pixelHeight" : 9
 	},
 	{
-		"comment"     : "SNES to MacBook Pro 16 2019",
+		"comment"     : "SNES to MacBook Pro 16\" (2019)",
 		"areaWidth"   : 3072,
 		"areaHeight"  : 1920,
 		"imageWidth"  : 256,
@@ -566,7 +566,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "SNES to MacBook Pro 15",
+		"comment"     : "SNES to MacBook Pro 15\" (2019)",
 		"areaWidth"   : 2880,
 		"areaHeight"  : 1800,
 		"imageWidth"  : 256,
@@ -577,7 +577,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "SNES to iPad Pro 2021 12.9\" (4:3)",
+		"comment"     : "SNES to iPad Pro 12.9\" (2021) (4:3)",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 256,
@@ -621,7 +621,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "SNES to Surface Laptop 1-4 13.5\", Framework laptop (3:2); zero AR error",
+		"comment"     : "SNES to Surface Laptop 1-4 13.5\", Framework laptop; zero AR error",
 		"areaWidth"   : 2256,
 		"areaHeight"  : 1504,
 		"imageWidth"  : 256,
@@ -654,7 +654,7 @@
 		"pixelHeight" : 6
 	},
 	{
-		"comment"     : "SNES to iPad Pro 2021 11\" (4:3)",
+		"comment"     : "SNES to iPad Pro 11\" (2021) (4:3)",
 		"areaWidth"   : 2224,
 		"areaHeight"  : 1668,
 		"imageWidth"  : 256,
@@ -743,7 +743,7 @@
 		"pixelHeight" : 13
 	},
 	{
-		"comment"     : "Genesis to iMac 2021",
+		"comment"     : "Genesis to iMac 24\" (2021)",
 		"areaWidth"   : 4480,
 		"areaHeight"  : 2520,
 		"imageWidth"  : 320,
@@ -754,7 +754,7 @@
 		"pixelHeight" : 11
 	},
 	{
-		"comment"     : "Genesis to Apple iMac 21.5 2020",
+		"comment"     : "Genesis to iMac 21.5\" (2020)",
 		"areaWidth"   : 4096,
 		"areaHeight"  : 2304,
 		"imageWidth"  : 320,
@@ -776,7 +776,7 @@
 		"pixelHeight" : 9
 	},
 	{
-		"comment"     : "Genesis to MacBook Pro 16 2019",
+		"comment"     : "Genesis to MacBook Pro 16\" (2019)",
 		"areaWidth"   : 3072,
 		"areaHeight"  : 1920,
 		"imageWidth"  : 320,
@@ -787,7 +787,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "Genesis to MacBook Pro 15",
+		"comment"     : "Genesis to MacBook Pro 15\" (2019)",
 		"areaWidth"   : 2880,
 		"areaHeight"  : 1800,
 		"imageWidth"  : 320,
@@ -798,7 +798,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "Genesis to iPad Pro 2021 12.9\" (4:3)",
+		"comment"     : "Genesis to iPad Pro 12.9\" (2021) (4:3)",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 320,
@@ -842,7 +842,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "Genesis to Surface Laptop 1-4 13.5\", Framework laptop (3:2); AR correction is impossible",
+		"comment"     : "Genesis to Surface Laptop 1-4 13.5\", Framework laptop; AR correction is impossible",
 		"areaWidth"   : 2256,
 		"areaHeight"  : 1504,
 		"imageWidth"  : 320,
@@ -875,7 +875,7 @@
 		"pixelHeight" : 6
 	},
 	{
-		"comment"     : "Genesis to iPad Pro 2021 11\" (4:3); AR correction is impossible",
+		"comment"     : "Genesis to iPad Pro 11\" (2021) (4:3); AR correction is impossible",
 		"areaWidth"   : 2224,
 		"areaHeight"  : 1668,
 		"imageWidth"  : 320,
@@ -886,7 +886,7 @@
 		"pixelHeight" : 6
 	},
 	{
-		"comment"     : "Genesis to iPad Pro 2021 11\" (4:3) (3 pixels cropped horizontally); AR correction is impossible",
+		"comment"     : "Genesis to iPad Pro 11\" (2021) (4:3) (3 pixels cropped horizontally); AR correction is impossible",
 		"areaWidth"   : 2224,
 		"areaHeight"  : 1668,
 		"imageWidth"  : 320,
@@ -976,7 +976,7 @@
 		"pixelHeight" : 11
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to iMac 2021",
+		"comment"     : "Midway T Unit (arcade MK series) to iMac 24\" (2021)",
 		"areaWidth"   : 4480,
 		"areaHeight"  : 2520,
 		"imageWidth"  : 400,
@@ -987,7 +987,7 @@
 		"pixelHeight" : 9
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to iMac 2021 (1+1 pixels cropped vertically); zero height loss",
+		"comment"     : "Midway T Unit (arcade MK series) to iMac 24\" (2021) (1+1 pixels cropped vertically); zero height loss",
 		"areaWidth"   : 4480,
 		"areaHeight"  : 2520,
 		"imageWidth"  : 400,
@@ -999,7 +999,7 @@
 		"pixelHeight" : 10
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to Apple iMac 21.5 2020",
+		"comment"     : "Midway T Unit (arcade MK series) to iMac 21.5\" (2020)",
 		"areaWidth"   : 4096,
 		"areaHeight"  : 2304,
 		"imageWidth"  : 400,
@@ -1021,7 +1021,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to MacBook Pro 16 2019",
+		"comment"     : "Midway T Unit (arcade MK series) to MacBook Pro 16\" (2019)",
 		"areaWidth"   : 3072,
 		"areaHeight"  : 1920,
 		"imageWidth"  : 400,
@@ -1032,7 +1032,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to MacBook Pro 15",
+		"comment"     : "Midway T Unit (arcade MK series) to MacBook Pro 15\" (2019)",
 		"areaWidth"   : 2880,
 		"areaHeight"  : 1800,
 		"imageWidth"  : 400,
@@ -1043,7 +1043,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to iPad Pro 2021 12.9\" (4:3)",
+		"comment"     : "Midway T Unit (arcade MK series) to iPad Pro 12.9\" (2021) (4:3)",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 400,
@@ -1054,7 +1054,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to iPad Pro 2021 12.9\" (4:3) (5+5 pixels cropped horizontally)",
+		"comment"     : "Midway T Unit (arcade MK series) to iPad Pro 12.9\" (2021) (4:3) (5+5 pixels cropped horizontally)",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 400,
@@ -1099,7 +1099,7 @@
 		"pixelHeight" : 6
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to Surface Laptop 1-4 13.5\", Framework laptop (3:2)",
+		"comment"     : "Midway T Unit (arcade MK series) to Surface Laptop 1-4 13.5\", Framework laptop",
 		"areaWidth"   : 2256,
 		"areaHeight"  : 1504,
 		"imageWidth"  : 400,
@@ -1110,7 +1110,7 @@
 		"pixelHeight" : 5
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to Surface Laptop 1-4 13.5\", Framework laptop (3:2) (2+2 pixels cropped vertically)",
+		"comment"     : "Midway T Unit (arcade MK series) to Surface Laptop 1-4 13.5\", Framework laptop (2+2 pixels cropped vertically)",
 		"areaWidth"   : 2256,
 		"areaHeight"  : 1504,
 		"imageWidth"  : 400,
@@ -1144,7 +1144,7 @@
 		"pixelHeight" : 5
 	},
 	{
-		"comment"     : "Midway T Unit (arcade MK series) to iPad Pro 2021 11\" (4:3); AR correction is impossible",
+		"comment"     : "Midway T Unit (arcade MK series) to iPad Pro 11\" (2021) (4:3); AR correction is impossible",
 		"areaWidth"   : 2224,
 		"areaHeight"  : 1668,
 		"imageWidth"  : 400,
@@ -1233,7 +1233,7 @@
 		"pixelHeight" : 13
 	},
 	{
-		"comment"     : "Capcom CPS (arcade SF series) to iMac 2021",
+		"comment"     : "Capcom CPS (arcade SF series) to iMac 24\" (2021)",
 		"areaWidth"   : 4480,
 		"areaHeight"  : 2520,
 		"imageWidth"  : 384,
@@ -1244,7 +1244,7 @@
 		"pixelHeight" : 11
 	},
 	{
-		"comment"     : "Capcom CPS (arcade SF series) to Apple iMac 21.5 2020",
+		"comment"     : "Capcom CPS (arcade SF series) to iMac 21.5\" (2020)",
 		"areaWidth"   : 4096,
 		"areaHeight"  : 2304,
 		"imageWidth"  : 384,
@@ -1266,7 +1266,7 @@
 		"pixelHeight" : 9
 	},
 	{
-		"comment"     : "Capcom CPS (arcade SF series) to MacBook Pro 16 2019",
+		"comment"     : "Capcom CPS (arcade SF series) to MacBook Pro 16\" (2019)",
 		"areaWidth"   : 3072,
 		"areaHeight"  : 1920,
 		"imageWidth"  : 384,
@@ -1277,7 +1277,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "Capcom CPS (arcade SF series) to MacBook Pro 15",
+		"comment"     : "Capcom CPS (arcade SF series) to MacBook Pro 15\" (2019)",
 		"areaWidth"   : 2880,
 		"areaHeight"  : 1800,
 		"imageWidth"  : 384,
@@ -1288,7 +1288,7 @@
 		"pixelHeight" : 8
 	},
 	{
-		"comment"     : "Capcom CPS (arcade SF series) to iPad Pro 2021 12.9\" (4:3); zero AR error",
+		"comment"     : "Capcom CPS (arcade SF series) to iPad Pro 12.9\" (2021) (4:3); zero AR error",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
 		"imageWidth"  : 384,
@@ -1332,7 +1332,7 @@
 		"pixelHeight" : 7
 	},
 	{
-		"comment"     : "Capcom CPS (arcade SF series) to Surface Laptop 1-4 13.5\", Framework laptop (3:2)",
+		"comment"     : "Capcom CPS (arcade SF series) to Surface Laptop 1-4 13.5\", Framework laptop",
 		"areaWidth"   : 2256,
 		"areaHeight"  : 1504,
 		"imageWidth"  : 384,
@@ -1365,7 +1365,7 @@
 		"pixelHeight" : 6
 	},
 	{
-		"comment"     : "Capcom CPS (arcade SF series) to iPad Pro 2021 11\" (4:3)",
+		"comment"     : "Capcom CPS (arcade SF series) to iPad Pro 11\" (2021) (4:3)",
 		"areaWidth"   : 2224,
 		"areaHeight"  : 1668,
 		"imageWidth"  : 384,
@@ -1376,7 +1376,7 @@
 		"pixelHeight" : 6
 	},
 	{
-		"comment"     : "Capcom CPS (arcade SF series) to iPad Pro 2021 11\" (4:3) (7+7 pixels cropped horizontally)",
+		"comment"     : "Capcom CPS (arcade SF series) to iPad Pro 11\" (2021) (4:3) (7+7 pixels cropped horizontally)",
 		"areaWidth"   : 2224,
 		"areaHeight"  : 1668,
 		"imageWidth"  : 384,
