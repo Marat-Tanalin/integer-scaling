@@ -555,6 +555,18 @@
 		"pixelHeight" : 9
 	},
 	{
+		"comment"     : "SNES to 4K (4+4 pixels cropped vertically)",
+		"areaWidth"   : 3840,
+		"areaHeight"  : 2160,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"imageCropY"  : 8,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 12,
+		"pixelHeight" : 10
+	},
+	{
 		"comment"     : "SNES to MacBook Pro 16\" (2019)",
 		"areaWidth"   : 3072,
 		"areaHeight"  : 1920,
@@ -687,6 +699,18 @@
 		"pixelHeight" : 4
 	},
 	{
+		"comment"     : "SNES to FHD (4+4 pixels cropped vertically)",
+		"areaWidth"   : 1920,
+		"areaHeight"  : 1080,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"imageCropY"  : 8,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 6,
+		"pixelHeight" : 5
+	},
+	{
 		"comment"     : "SNES to HD+",
 		"areaWidth"   : 1600,
 		"areaHeight"  : 900,
@@ -774,6 +798,18 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 8,
 		"pixelHeight" : 9
+	},
+	{
+		"comment"     : "Genesis to 4K (4+4 pixels cropped vertically)",
+		"areaWidth"   : 3840,
+		"areaHeight"  : 2160,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"imageCropY"  : 8,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 9,
+		"pixelHeight" : 10
 	},
 	{
 		"comment"     : "Genesis to MacBook Pro 16\" (2019)",
@@ -918,6 +954,18 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 4,
 		"pixelHeight" : 4
+	},
+	{
+		"comment"     : "Genesis to FHD (4+4 pixels cropped vertically); AR correction is impossible",
+		"areaWidth"   : 1920,
+		"areaHeight"  : 1080,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"imageCropY"  : 8,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "Genesis to HD+; AR correction is impossible",
