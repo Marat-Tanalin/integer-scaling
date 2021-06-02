@@ -25,7 +25,7 @@ var IntegerScaling;
 		}
 
 		var ratio = Math.floor(areaSize / imageSize);
-		
+
 		if (ratio < 1) {
 			ratio = 1;
 		}
