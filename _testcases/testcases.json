@@ -11,6 +11,17 @@
 		"pixelHeight" : 21
 	},
 	{
+		"comment"     : "DOS Mode 13h to 8K (portrait)",
+		"areaWidth"   : 4320,
+		"areaHeight"  : 7680,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 13,
+		"pixelHeight" : 16
+	},
+	{
 		"comment"     : "DOS Mode 13h to Pro Display XDR",
 		"areaWidth"   : 6016,
 		"areaHeight"  : 3384,
@@ -20,6 +31,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 13,
 		"pixelHeight" : 16
+	},
+	{
+		"comment"     : "DOS Mode 13h to Pro Display XDR (portrait); zero AR error",
+		"areaWidth"   : 3384,
+		"areaHeight"  : 6016,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 10,
+		"pixelHeight" : 12
 	},
 	{
 		"comment"     : "DOS Mode 13h to 5K",
@@ -33,6 +55,17 @@
 		"pixelHeight" : 14
 	},
 	{
+		"comment"     : "DOS Mode 13h to 5K (portrait); zero width loss",
+		"areaWidth"   : 2880,
+		"areaHeight"  : 5120,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 9,
+		"pixelHeight" : 11
+	},
+	{
 		"comment"     : "DOS Mode 13h to Surface Studio 1/2",
 		"areaWidth"   : 4500,
 		"areaHeight"  : 3000,
@@ -42,6 +75,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 13,
 		"pixelHeight" : 15
+	},
+	{
+		"comment"     : "DOS Mode 13h to Surface Studio 1/2 (portrait)",
+		"areaWidth"   : 3000,
+		"areaHeight"  : 4500,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 9,
+		"pixelHeight" : 11
 	},
 	{
 		"comment"     : "DOS Mode 13h to iMac 24\" (2021); zero AR error",
@@ -77,6 +121,17 @@
 		"pixelHeight" : 10
 	},
 	{
+		"comment"     : "DOS Mode 13h to 4K (portrait)",
+		"areaWidth"   : 2160,
+		"areaHeight"  : 3840,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 6,
+		"pixelHeight" : 7
+	},
+	{
 		"comment"     : "DOS Mode 13h to MacBook Pro 16\" (2019)",
 		"areaWidth"   : 3072,
 		"areaHeight"  : 1920,
@@ -110,6 +165,17 @@
 		"pixelHeight" : 10
 	},
 	{
+		"comment"     : "DOS Mode 13h to iPad Pro 12.9\" (2021) (portrait)",
+		"areaWidth"   : 2048,
+		"areaHeight"  : 2732,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 6,
+		"pixelHeight" : 7
+	},
+	{
 		"comment"     : "DOS Mode 13h to WQXGA",
 		"areaWidth"   : 2560,
 		"areaHeight"  : 1600,
@@ -121,6 +187,17 @@
 		"pixelHeight" : 8
 	},
 	{
+		"comment"     : "DOS Mode 13h to WQXGA (portrait); zero AR error, zero width loss",
+		"areaWidth"   : 1600,
+		"areaHeight"  : 2560,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
+	},
+	{
 		"comment"     : "DOS Mode 13h to iPhone 12",
 		"areaWidth"   : 2532,
 		"areaHeight"  : 1170,
@@ -130,6 +207,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 4,
 		"pixelHeight" : 5
+	},
+	{
+		"comment"     : "DOS Mode 13h to iPhone 12 (portrait)",
+		"areaWidth"   : 1170,
+		"areaHeight"  : 2532,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 3,
+		"pixelHeight" : 4
 	},
 	{
 		"comment"     : "DOS Mode 13h to iPhone 12 (5 pixels cropped vertically)",
@@ -155,6 +243,17 @@
 		"pixelHeight" : 8
 	},
 	{
+		"comment"     : "DOS Mode 13h to Surface Laptop 3/4 15\" (portrait); zero AR error",
+		"areaWidth"   : 1664,
+		"areaHeight"  : 2496,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
+	},
+	{
 		"comment"     : "DOS Mode 13h to Surface Laptop 1-4 13.5\", Framework laptop",
 		"areaWidth"   : 2256,
 		"areaHeight"  : 1504,
@@ -166,6 +265,17 @@
 		"pixelHeight" : 7
 	},
 	{
+		"comment"     : "DOS Mode 13h to Surface Laptop 1-4 13.5\", Framework laptop (portrait)",
+		"areaWidth"   : 1504,
+		"areaHeight"  : 2256,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 4,
+		"pixelHeight" : 5
+	},
+	{
 		"comment"     : "DOS Mode 13h to QXGA",
 		"areaWidth"   : 2048,
 		"areaHeight"  : 1536,
@@ -175,6 +285,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 6,
 		"pixelHeight" : 7
+	},
+	{
+		"comment"     : "DOS Mode 13h to QXGA (portrait)",
+		"areaWidth"   : 1536,
+		"areaHeight"  : 2048,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 4,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "DOS Mode 13h to QHD",
@@ -209,6 +330,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 7,
 		"pixelHeight" : 8
+	},
+	{
+		"comment"     : "DOS Mode 13h to iPad Pro 11\" (2021) (portrait); zero AR error",
+		"areaWidth"   : 1668,
+		"areaHeight"  : 2224,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
 	},
 	{
 		"comment"     : "DOS Mode 13h to WUXGA; zero AR error",
@@ -256,6 +388,17 @@
 		"pixelHeight" : 22
 	},
 	{
+		"comment"     : "Apple II to 8K (portrait)",
+		"areaWidth"   : 4320,
+		"areaHeight"  : 7680,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 15,
+		"pixelHeight" : 16
+	},
+	{
 		"comment"     : "Apple II to Pro Display XDR",
 		"areaWidth"   : 6016,
 		"areaHeight"  : 3384,
@@ -265,6 +408,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 16,
 		"pixelHeight" : 17
+	},
+	{
+		"comment"     : "Apple II to Pro Display XDR (portrait)",
+		"areaWidth"   : 3384,
+		"areaHeight"  : 6016,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 12,
+		"pixelHeight" : 13
 	},
 	{
 		"comment"     : "Apple II to 5K; zero height loss",
@@ -278,6 +432,17 @@
 		"pixelHeight" : 15
 	},
 	{
+		"comment"     : "Apple II to 5K (portrait)",
+		"areaWidth"   : 2880,
+		"areaHeight"  : 5120,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 10,
+		"pixelHeight" : 11
+	},
+	{
 		"comment"     : "Apple II to Surface Studio 1/2",
 		"areaWidth"   : 4500,
 		"areaHeight"  : 3000,
@@ -287,6 +452,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 14,
 		"pixelHeight" : 15
+	},
+	{
+		"comment"     : "Apple II to Surface Studio 1/2 (portrait)",
+		"areaWidth"   : 3000,
+		"areaHeight"  : 4500,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 10,
+		"pixelHeight" : 11
 	},
 	{
 		"comment"     : "Apple II to iMac 24\" (2021)",
@@ -322,6 +498,17 @@
 		"pixelHeight" : 11
 	},
 	{
+		"comment"     : "Apple II to 4K (portrait)",
+		"areaWidth"   : 2160,
+		"areaHeight"  : 3840,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 7,
+		"pixelHeight" : 8
+	},
+	{
 		"comment"     : "Apple II to MacBook Pro 16\" (2019); zero height loss",
 		"areaWidth"   : 3072,
 		"areaHeight"  : 1920,
@@ -355,6 +542,17 @@
 		"pixelHeight" : 10
 	},
 	{
+		"comment"     : "Apple II to iPad Pro 12.9\" (2021) (portrait)",
+		"areaWidth"   : 2048,
+		"areaHeight"  : 2732,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 7,
+		"pixelHeight" : 8
+	},
+	{
 		"comment"     : "Apple II to WQXGA",
 		"areaWidth"   : 2560,
 		"areaHeight"  : 1600,
@@ -364,6 +562,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 7,
 		"pixelHeight" : 8
+	},
+	{
+		"comment"     : "Apple II to WQXGA (portrait)",
+		"areaWidth"   : 1600,
+		"areaHeight"  : 2560,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
 	},
 	{
 		"comment"     : "Apple II to iPhone 12",
@@ -377,6 +586,17 @@
 		"pixelHeight" : 6
 	},
 	{
+		"comment"     : "Apple II to iPhone 12 (portrait); AR correction is impossible",
+		"areaWidth"   : 1170,
+		"areaHeight"  : 2532,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 4,
+		"pixelHeight" : 4
+	},
+	{
 		"comment"     : "Apple II to Surface Laptop 3/4 15\"",
 		"areaWidth"   : 2496,
 		"areaHeight"  : 1664,
@@ -386,6 +606,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 7,
 		"pixelHeight" : 8
+	},
+	{
+		"comment"     : "Apple II to Surface Laptop 3/4 15\" (portrait)",
+		"areaWidth"   : 1664,
+		"areaHeight"  : 2496,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
 	},
 	{
 		"comment"     : "Apple II to Surface Laptop 1-4 13.5\", Framework laptop",
@@ -411,6 +642,17 @@
 		"pixelHeight" : 8
 	},
 	{
+		"comment"     : "Apple II to Surface Laptop 1-4 13.5\", Framework laptop (portrait)",
+		"areaWidth"   : 1504,
+		"areaHeight"  : 2256,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
+	},
+	{
 		"comment"     : "Apple II to QXGA; zero height loss",
 		"areaWidth"   : 2048,
 		"areaHeight"  : 1536,
@@ -420,6 +662,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 7,
 		"pixelHeight" : 8
+	},
+	{
+		"comment"     : "Apple II to QXGA (portrait)",
+		"areaWidth"   : 1536,
+		"areaHeight"  : 2048,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
 	},
 	{
 		"comment"     : "Apple II to QHD",
@@ -442,6 +695,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 7,
 		"pixelHeight" : 8
+	},
+	{
+		"comment"     : "Apple II to iPad Pro 11\" (2021) (portrait)",
+		"areaWidth"   : 1668,
+		"areaHeight"  : 2224,
+		"imageWidth"  : 280,
+		"imageHeight" : 192,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
 	},
 	{
 		"comment"     : "Apple II to WUXGA",
@@ -489,6 +753,17 @@
 		"pixelHeight" : 19
 	},
 	{
+		"comment"     : "SNES to 8K (portrait)",
+		"areaWidth"   : 4320,
+		"areaHeight"  : 7680,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 16,
+		"pixelHeight" : 14
+	},
+	{
 		"comment"     : "SNES to Pro Display XDR",
 		"areaWidth"   : 6016,
 		"areaHeight"  : 3384,
@@ -498,6 +773,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 17,
 		"pixelHeight" : 15
+	},
+	{
+		"comment"     : "SNES to Pro Display XDR (portrait)",
+		"areaWidth"   : 3384,
+		"areaHeight"  : 6016,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 13,
+		"pixelHeight" : 11
 	},
 	{
 		"comment"     : "SNES to 5K; zero AR error",
@@ -511,6 +797,29 @@
 		"pixelHeight" : 12
 	},
 	{
+		"comment"     : "SNES to 5K (3 pixels cropped vertically)",
+		"areaWidth"   : 5120,
+		"areaHeight"  : 2880,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"imageCropY"  : 3,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 15,
+		"pixelHeight" : 13
+	},
+	{
+		"comment"     : "SNES to 5K (portrait)",
+		"areaWidth"   : 2880,
+		"areaHeight"  : 5120,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 11,
+		"pixelHeight" : 9
+	},
+	{
 		"comment"     : "SNES to Surface Studio 1/2",
 		"areaWidth"   : 4500,
 		"areaHeight"  : 3000,
@@ -520,6 +829,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 15,
 		"pixelHeight" : 13
+	},
+	{
+		"comment"     : "SNES to Surface Studio 1/2 (portrait)",
+		"areaWidth"   : 3000,
+		"areaHeight"  : 4500,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 11,
+		"pixelHeight" : 9
 	},
 	{
 		"comment"     : "SNES to iMac 24\" (2021)",
@@ -567,6 +887,17 @@
 		"pixelHeight" : 10
 	},
 	{
+		"comment"     : "SNES to 4K (portrait)",
+		"areaWidth"   : 2160,
+		"areaHeight"  : 3840,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 8,
+		"pixelHeight" : 7
+	},
+	{
 		"comment"     : "SNES to MacBook Pro 16\" (2019)",
 		"areaWidth"   : 3072,
 		"areaHeight"  : 1920,
@@ -600,6 +931,17 @@
 		"pixelHeight" : 9
 	},
 	{
+		"comment"     : "SNES to iPad Pro 12.9\" (2021) (portrait); zero width loss",
+		"areaWidth"   : 2048,
+		"areaHeight"  : 2732,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 8,
+		"pixelHeight" : 7
+	},
+	{
 		"comment"     : "SNES to WQXGA",
 		"areaWidth"   : 2560,
 		"areaHeight"  : 1600,
@@ -609,6 +951,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 8,
 		"pixelHeight" : 7
+	},
+	{
+		"comment"     : "SNES to WQXGA (portrait)",
+		"areaWidth"   : 1600,
+		"areaHeight"  : 2560,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 6,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "SNES to iPhone 12",
@@ -622,6 +975,17 @@
 		"pixelHeight" : 5
 	},
 	{
+		"comment"     : "SNES to iPhone 12 (portrait); AR correction is impossible",
+		"areaWidth"   : 1170,
+		"areaHeight"  : 2532,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 4,
+		"pixelHeight" : 4
+	},
+	{
 		"comment"     : "SNES to Surface Laptop 3/4 15\"",
 		"areaWidth"   : 2496,
 		"areaHeight"  : 1664,
@@ -631,6 +995,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 8,
 		"pixelHeight" : 7
+	},
+	{
+		"comment"     : "SNES to Surface Laptop 3/4 15\" (portrait)",
+		"areaWidth"   : 1664,
+		"areaHeight"  : 2496,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 6,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "SNES to Surface Laptop 1-4 13.5\", Framework laptop; zero AR error",
@@ -644,6 +1019,17 @@
 		"pixelHeight" : 6
 	},
 	{
+		"comment"     : "SNES to Surface Laptop 1-4 13.5\", Framework laptop (portrait)",
+		"areaWidth"   : 1504,
+		"areaHeight"  : 2256,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 4
+	},
+	{
 		"comment"     : "SNES to QXGA; zero AR error",
 		"areaWidth"   : 2048,
 		"areaHeight"  : 1536,
@@ -653,6 +1039,29 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 7,
 		"pixelHeight" : 6
+	},
+	{
+		"comment"     : "SNES to QXGA (5 pixels cropped vertically); zero width loss",
+		"areaWidth"   : 2048,
+		"areaHeight"  : 1536,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"imageCropY"  : 5,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 8,
+		"pixelHeight" : 7
+	},
+	{
+		"comment"     : "SNES to QXGA (portrait); zero width loss",
+		"areaWidth"   : 1536,
+		"areaHeight"  : 2048,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 6,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "SNES to QHD; zero AR error",
@@ -675,6 +1084,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 8,
 		"pixelHeight" : 7
+	},
+	{
+		"comment"     : "SNES to iPad Pro 11\" (2021) (portrait)",
+		"areaWidth"   : 1668,
+		"areaHeight"  : 2224,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 6,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "SNES to WUXGA",
@@ -734,6 +1154,17 @@
 		"pixelHeight" : 19
 	},
 	{
+		"comment"     : "Genesis to 8K (portrait)",
+		"areaWidth"   : 4320,
+		"areaHeight"  : 7680,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 13,
+		"pixelHeight" : 14
+	},
+	{
 		"comment"     : "Genesis to Pro Display XDR",
 		"areaWidth"   : 6016,
 		"areaHeight"  : 3384,
@@ -743,6 +1174,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 14,
 		"pixelHeight" : 15
+	},
+	{
+		"comment"     : "Genesis to Pro Display XDR (portrait)",
+		"areaWidth"   : 3384,
+		"areaHeight"  : 6016,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 10,
+		"pixelHeight" : 11
 	},
 	{
 		"comment"     : "Genesis to 5K",
@@ -756,6 +1198,29 @@
 		"pixelHeight" : 12
 	},
 	{
+		"comment"     : "Genesis to 5K (3 pixels cropped vertically)",
+		"areaWidth"   : 5120,
+		"areaHeight"  : 2880,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"imageCropY"  : 3,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 12,
+		"pixelHeight" : 13
+	},
+	{
+		"comment"     : "Genesis to 5K (portrait); zero width loss",
+		"areaWidth"   : 2880,
+		"areaHeight"  : 5120,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 9,
+		"pixelHeight" : 10
+	},
+	{
 		"comment"     : "Genesis to Surface Studio 1/2",
 		"areaWidth"   : 4500,
 		"areaHeight"  : 3000,
@@ -765,6 +1230,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 12,
 		"pixelHeight" : 13
+	},
+	{
+		"comment"     : "Genesis to Surface Studio 1/2 (portrait)",
+		"areaWidth"   : 3000,
+		"areaHeight"  : 4500,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 9,
+		"pixelHeight" : 10
 	},
 	{
 		"comment"     : "Genesis to iMac 24\" (2021)",
@@ -812,6 +1288,17 @@
 		"pixelHeight" : 10
 	},
 	{
+		"comment"     : "Genesis to 4K (portrait); AR correction is impossible",
+		"areaWidth"   : 2160,
+		"areaHeight"  : 3840,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 6,
+		"pixelHeight" : 6
+	},
+	{
 		"comment"     : "Genesis to MacBook Pro 16\" (2019)",
 		"areaWidth"   : 3072,
 		"areaHeight"  : 1920,
@@ -845,6 +1332,17 @@
 		"pixelHeight" : 9
 	},
 	{
+		"comment"     : "Genesis to iPad Pro 12.9\" (2021) (portrait); AR correction is impossible",
+		"areaWidth"   : 2048,
+		"areaHeight"  : 2732,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 6,
+		"pixelHeight" : 6
+	},
+	{
 		"comment"     : "Genesis to WQXGA; AR correction is impossible",
 		"areaWidth"   : 2560,
 		"areaHeight"  : 1600,
@@ -854,6 +1352,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 7,
 		"pixelHeight" : 7
+	},
+	{
+		"comment"     : "Genesis to WQXGA (portrait); AR correction is impossible, zero width loss",
+		"areaWidth"   : 1600,
+		"areaHeight"  : 2560,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "Genesis to iPhone 12; AR correction is impossible",
@@ -867,6 +1376,17 @@
 		"pixelHeight" : 5
 	},
 	{
+		"comment"     : "Genesis to iPhone 12 (portrait); AR correction is impossible",
+		"areaWidth"   : 1170,
+		"areaHeight"  : 2532,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 3,
+		"pixelHeight" : 3
+	},
+	{
 		"comment"     : "Genesis to Surface Laptop 3/4 15\"; AR correction is impossible",
 		"areaWidth"   : 2496,
 		"areaHeight"  : 1664,
@@ -876,6 +1396,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 7,
 		"pixelHeight" : 7
+	},
+	{
+		"comment"     : "Genesis to Surface Laptop 3/4 15\" (portrait); AR correction is impossible",
+		"areaWidth"   : 1664,
+		"areaHeight"  : 2496,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "Genesis to Surface Laptop 1-4 13.5\", Framework laptop; AR correction is impossible",
@@ -889,6 +1420,17 @@
 		"pixelHeight" : 6
 	},
 	{
+		"comment"     : "Genesis to Surface Laptop 1-4 13.5\", Framework laptop (portrait); AR correction is impossible",
+		"areaWidth"   : 1504,
+		"areaHeight"  : 2256,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 4,
+		"pixelHeight" : 4
+	},
+	{
 		"comment"     : "Genesis to QXGA; AR correction is impossible",
 		"areaWidth"   : 2048,
 		"areaHeight"  : 1536,
@@ -898,6 +1440,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 6,
 		"pixelHeight" : 6
+	},
+	{
+		"comment"     : "Genesis to QXGA (portrait); AR correction is impossible",
+		"areaWidth"   : 1536,
+		"areaHeight"  : 2048,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 4,
+		"pixelHeight" : 4
 	},
 	{
 		"comment"     : "Genesis to QHD; AR correction is impossible",
@@ -932,6 +1485,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 7,
 		"pixelHeight" : 7
+	},
+	{
+		"comment"     : "Genesis to iPad Pro 11\" (2021) (portrait); AR correction is impossible",
+		"areaWidth"   : 1668,
+		"areaHeight"  : 2224,
+		"imageWidth"  : 320,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "Genesis to WUXGA; AR correction is impossible",
@@ -991,6 +1555,17 @@
 		"pixelHeight" : 17
 	},
 	{
+		"comment"     : "Midway T Unit (arcade MK series) to 8K (portrait)",
+		"areaWidth"   : 4320,
+		"areaHeight"  : 7680,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 10,
+		"pixelHeight" : 12
+	},
+	{
 		"comment"     : "Midway T Unit (arcade MK series) to Pro Display XDR",
 		"areaWidth"   : 6016,
 		"areaHeight"  : 3384,
@@ -1000,6 +1575,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 11,
 		"pixelHeight" : 13
+	},
+	{
+		"comment"     : "Midway T Unit (arcade MK series) to Pro Display XDR (portrait)",
+		"areaWidth"   : 3384,
+		"areaHeight"  : 6016,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 8,
+		"pixelHeight" : 9
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to 5K",
@@ -1013,6 +1599,17 @@
 		"pixelHeight" : 11
 	},
 	{
+		"comment"     : "Midway T Unit (arcade MK series) to 5K (portrait)",
+		"areaWidth"   : 2880,
+		"areaHeight"  : 5120,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 7,
+		"pixelHeight" : 8
+	},
+	{
 		"comment"     : "Midway T Unit (arcade MK series) to Surface Studio 1/2",
 		"areaWidth"   : 4500,
 		"areaHeight"  : 3000,
@@ -1022,6 +1619,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 9,
 		"pixelHeight" : 11
+	},
+	{
+		"comment"     : "Midway T Unit (arcade MK series) to Surface Studio 1/2 (portrait)",
+		"areaWidth"   : 3000,
+		"areaHeight"  : 4500,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 7,
+		"pixelHeight" : 8
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to iMac 24\" (2021)",
@@ -1069,6 +1677,17 @@
 		"pixelHeight" : 8
 	},
 	{
+		"comment"     : "Midway T Unit (arcade MK series) to 4K (portrait)",
+		"areaWidth"   : 2160,
+		"areaHeight"  : 3840,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
+	},
+	{
 		"comment"     : "Midway T Unit (arcade MK series) to MacBook Pro 16\" (2019)",
 		"areaWidth"   : 3072,
 		"areaHeight"  : 1920,
@@ -1102,6 +1721,17 @@
 		"pixelHeight" : 7
 	},
 	{
+		"comment"     : "Midway T Unit (arcade MK series) to iPad Pro 12.9\" (2021) (portrait)",
+		"areaWidth"   : 2048,
+		"areaHeight"  : 2732,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
+	},
+	{
 		"comment"     : "Midway T Unit (arcade MK series) to iPad Pro 12.9\" (2021) (4:3) (5+5 pixels cropped horizontally)",
 		"areaWidth"   : 2732,
 		"areaHeight"  : 2048,
@@ -1125,6 +1755,17 @@
 		"pixelHeight" : 6
 	},
 	{
+		"comment"     : "Midway T Unit (arcade MK series) to WQXGA (portrait)",
+		"areaWidth"   : 1600,
+		"areaHeight"  : 2560,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 4,
+		"pixelHeight" : 5
+	},
+	{
 		"comment"     : "Midway T Unit (arcade MK series) to iPhone 12",
 		"areaWidth"   : 2532,
 		"areaHeight"  : 1170,
@@ -1136,6 +1777,17 @@
 		"pixelHeight" : 4
 	},
 	{
+		"comment"     : "Midway T Unit (arcade MK series) to iPhone 12 (portrait); AR correction is impossible",
+		"areaWidth"   : 1170,
+		"areaHeight"  : 2532,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 2,
+		"pixelHeight" : 2
+	},
+	{
 		"comment"     : "Midway T Unit (arcade MK series) to Surface Laptop 3/4 15\"",
 		"areaWidth"   : 2496,
 		"areaHeight"  : 1664,
@@ -1145,6 +1797,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 5,
 		"pixelHeight" : 6
+	},
+	{
+		"comment"     : "Midway T Unit (arcade MK series) to Surface Laptop 3/4 15\" (portrait)",
+		"areaWidth"   : 1664,
+		"areaHeight"  : 2496,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 4,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to Surface Laptop 1-4 13.5\", Framework laptop",
@@ -1170,6 +1833,17 @@
 		"pixelHeight" : 6
 	},
 	{
+		"comment"     : "Midway T Unit (arcade MK series) to Surface Laptop 1-4 13.5\", Framework laptop (portrait)",
+		"areaWidth"   : 1504,
+		"areaHeight"  : 2256,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 3,
+		"pixelHeight" : 4
+	},
+	{
 		"comment"     : "Midway T Unit (arcade MK series) to QXGA",
 		"areaWidth"   : 2048,
 		"areaHeight"  : 1536,
@@ -1179,6 +1853,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 5,
 		"pixelHeight" : 6
+	},
+	{
+		"comment"     : "Midway T Unit (arcade MK series) to QXGA (portrait)",
+		"areaWidth"   : 1536,
+		"areaHeight"  : 2048,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 3,
+		"pixelHeight" : 4
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to QHD",
@@ -1201,6 +1886,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 5,
 		"pixelHeight" : 6
+	},
+	{
+		"comment"     : "Midway T Unit (arcade MK series) to iPad Pro 11\" (2021) (portrait)",
+		"areaWidth"   : 1668,
+		"areaHeight"  : 2224,
+		"imageWidth"  : 400,
+		"imageHeight" : 254,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 4,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "Midway T Unit (arcade MK series) to WUXGA",
@@ -1248,6 +1944,17 @@
 		"pixelHeight" : 19
 	},
 	{
+		"comment"     : "Capcom CPS (arcade SF series) to 8K (portrait)",
+		"areaWidth"   : 4320,
+		"areaHeight"  : 7680,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 11,
+		"pixelHeight" : 14
+	},
+	{
 		"comment"     : "Capcom CPS (arcade SF series) to Pro Display XDR",
 		"areaWidth"   : 6016,
 		"areaHeight"  : 3384,
@@ -1257,6 +1964,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 12,
 		"pixelHeight" : 15
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to Pro Display XDR (portrait)",
+		"areaWidth"   : 3384,
+		"areaHeight"  : 6016,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 8,
+		"pixelHeight" : 10
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to 5K",
@@ -1270,6 +1988,17 @@
 		"pixelHeight" : 12
 	},
 	{
+		"comment"     : "Capcom CPS (arcade SF series) to 5K (portrait); zero AR error",
+		"areaWidth"   : 2880,
+		"areaHeight"  : 5120,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 7,
+		"pixelHeight" : 9
+	},
+	{
 		"comment"     : "Capcom CPS (arcade SF series) to Surface Studio 1/2",
 		"areaWidth"   : 4500,
 		"areaHeight"  : 3000,
@@ -1279,6 +2008,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 10,
 		"pixelHeight" : 13
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to Surface Studio 1/2 (portrait); zero AR error",
+		"areaWidth"   : 3000,
+		"areaHeight"  : 4500,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 7,
+		"pixelHeight" : 9
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to iMac 24\" (2021)",
@@ -1314,6 +2054,17 @@
 		"pixelHeight" : 9
 	},
 	{
+		"comment"     : "Capcom CPS (arcade SF series) to 4K (portrait)",
+		"areaWidth"   : 2160,
+		"areaHeight"  : 3840,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
+	},
+	{
 		"comment"     : "Capcom CPS (arcade SF series) to MacBook Pro 16\" (2019)",
 		"areaWidth"   : 3072,
 		"areaHeight"  : 1920,
@@ -1347,6 +2098,17 @@
 		"pixelHeight" : 9
 	},
 	{
+		"comment"     : "Capcom CPS (arcade SF series) to iPad Pro 12.9\" (2021) (portrait)",
+		"areaWidth"   : 2048,
+		"areaHeight"  : 2732,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
+	},
+	{
 		"comment"     : "Capcom CPS (arcade SF series) to WQXGA",
 		"areaWidth"   : 2560,
 		"areaHeight"  : 1600,
@@ -1356,6 +2118,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 5,
 		"pixelHeight" : 7
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to WQXGA (portrait)",
+		"areaWidth"   : 1600,
+		"areaHeight"  : 2560,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 4,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to iPhone 12",
@@ -1369,6 +2142,17 @@
 		"pixelHeight" : 5
 	},
 	{
+		"comment"     : "Capcom CPS (arcade SF series) to iPhone 12 (portrait)",
+		"areaWidth"   : 1170,
+		"areaHeight"  : 2532,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 3,
+		"pixelHeight" : 4
+	},
+	{
 		"comment"     : "Capcom CPS (arcade SF series) to Surface Laptop 3/4 15\"",
 		"areaWidth"   : 2496,
 		"areaHeight"  : 1664,
@@ -1378,6 +2162,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 5,
 		"pixelHeight" : 7
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to Surface Laptop 3/4 15\" (portrait)",
+		"areaWidth"   : 1664,
+		"areaHeight"  : 2496,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 4,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to Surface Laptop 1-4 13.5\", Framework laptop",
@@ -1391,6 +2186,17 @@
 		"pixelHeight" : 6
 	},
 	{
+		"comment"     : "Capcom CPS (arcade SF series) to Surface Laptop 1-4 13.5\", Framework laptop (portrait)",
+		"areaWidth"   : 1504,
+		"areaHeight"  : 2256,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 3,
+		"pixelHeight" : 4
+	},
+	{
 		"comment"     : "Capcom CPS (arcade SF series) to QXGA",
 		"areaWidth"   : 2048,
 		"areaHeight"  : 1536,
@@ -1400,6 +2206,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 5,
 		"pixelHeight" : 6
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to QXGA (portrait); zero width loss",
+		"areaWidth"   : 1536,
+		"areaHeight"  : 2048,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 4,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to QHD",
@@ -1434,6 +2251,17 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 5,
 		"pixelHeight" : 7
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to iPad Pro 11\" (2021) (portrait)",
+		"areaWidth"   : 1668,
+		"areaHeight"  : 2224,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 4,
+		"pixelHeight" : 5
 	},
 	{
 		"comment"     : "Capcom CPS (arcade SF series) to WUXGA",
