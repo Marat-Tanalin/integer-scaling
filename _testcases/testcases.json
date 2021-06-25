@@ -110,7 +110,7 @@
 		"pixelHeight" : 4
 	},
 	{
-		"comment"     : "640x400 to QHD",
+		"comment"     : "640x400 to QHD; AR correction is impossible",
 		"areaWidth"   : 2560,
 		"areaHeight"  : 1440,
 		"imageWidth"  : 640,
