@@ -1,0 +1,68 @@
+[
+	{
+		"comment"     : "720x400 to 8K",
+		"areaWidth"   : 7680,
+		"areaHeight"  : 4320,
+		"imageWidth"  : 720,
+		"imageHeight" : 400,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 7,
+		"pixelHeight" : 10
+	},
+	{
+		"comment"     : "720x400 to 8K (portrait); zero width loss",
+		"areaWidth"   : 4320,
+		"areaHeight"  : 7680,
+		"imageWidth"  : 720,
+		"imageHeight" : 400,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 6,
+		"pixelHeight" : 8
+	},
+	{
+		"comment"     : "720x400 to 4K",
+		"areaWidth"   : 3840,
+		"areaHeight"  : 2160,
+		"imageWidth"  : 720,
+		"imageHeight" : 400,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 4,
+		"pixelHeight" : 5
+	},
+	{
+		"comment"     : "720x400 to 4K (portrait); zero width loss",
+		"areaWidth"   : 2160,
+		"areaHeight"  : 3840,
+		"imageWidth"  : 720,
+		"imageHeight" : 400,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 3,
+		"pixelHeight" : 4
+	},
+	{
+		"comment"     : "720x400 to QHD",
+		"areaWidth"   : 2560,
+		"areaHeight"  : 1440,
+		"imageWidth"  : 720,
+		"imageHeight" : 400,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 2,
+		"pixelHeight" : 3
+	},
+	{
+		"comment"     : "720x400 to QHD (portrait); zero width loss",
+		"areaWidth"   : 1440,
+		"areaHeight"  : 2560,
+		"imageWidth"  : 720,
+		"imageHeight" : 400,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 2,
+		"pixelHeight" : 3
+	}
+]
