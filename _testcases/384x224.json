@@ -110,6 +110,40 @@
 		"pixelHeight" : 10
 	},
 	{
+		"comment"     : "Capcom CPS (arcade SF series) to WQUXGA",
+		"areaWidth"   : 3840,
+		"areaHeight"  : 2400,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 8,
+		"pixelHeight" : 10
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to WQUXGA (3+3 pixels cropped vertically)",
+		"areaWidth"   : 3840,
+		"areaHeight"  : 2400,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"imageCropY"  : 6,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 9,
+		"pixelHeight" : 11
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to WQUXGA (portrait)",
+		"areaWidth"   : 2400,
+		"areaHeight"  : 3840,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 6,
+		"pixelHeight" : 8
+	},
+	{
 		"comment"     : "Capcom CPS (arcade SF series) to 4K; zero AR error",
 		"areaWidth"   : 3840,
 		"areaHeight"  : 2160,

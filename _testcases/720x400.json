@@ -22,6 +22,28 @@
 		"pixelHeight" : 8
 	},
 	{
+		"comment"     : "720x400 to WQUXGA; zero height loss",
+		"areaWidth"   : 3840,
+		"areaHeight"  : 2400,
+		"imageWidth"  : 720,
+		"imageHeight" : 400,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 4,
+		"pixelHeight" : 6
+	},
+	{
+		"comment"     : "720x400 to WQUXGA (portrait)",
+		"areaWidth"   : 2400,
+		"areaHeight"  : 3840,
+		"imageWidth"  : 720,
+		"imageHeight" : 400,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 3,
+		"pixelHeight" : 4
+	},
+	{
 		"comment"     : "720x400 to 4K",
 		"areaWidth"   : 3840,
 		"areaHeight"  : 2160,
