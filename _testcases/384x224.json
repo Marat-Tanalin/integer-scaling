@@ -177,6 +177,40 @@
 		"pixelHeight" : 8
 	},
 	{
+		"comment"     : "Capcom CPS (arcade SF series) to 3000x2000",
+		"areaWidth"   : 3000,
+		"areaHeight"  : 2000,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 6,
+		"pixelHeight" : 8
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to 3000x2000 (1+1 pixels cropped vertically); zero AR error, zero height loss",
+		"areaWidth"   : 3000,
+		"areaHeight"  : 2000,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"imageCropY"  : 2,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 7,
+		"pixelHeight" : 9
+	},
+	{
+		"comment"     : "Capcom CPS (arcade SF series) to 3000x2000 (portrait)",
+		"areaWidth"   : 2000,
+		"areaHeight"  : 3000,
+		"imageWidth"  : 384,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 6
+	},
+	{
 		"comment"     : "Capcom CPS (arcade SF series) to MacBook Pro 15\" (2019)",
 		"areaWidth"   : 2880,
 		"areaHeight"  : 1800,

@@ -165,6 +165,28 @@
 		"pixelHeight" : 9
 	},
 	{
+		"comment"     : "DOS Mode 13h to 3000x2000; zero height loss",
+		"areaWidth"   : 3000,
+		"areaHeight"  : 2000,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 8,
+		"pixelHeight" : 10
+	},
+	{
+		"comment"     : "DOS Mode 13h to 3000x2000 (portrait)",
+		"areaWidth"   : 2000,
+		"areaHeight"  : 3000,
+		"imageWidth"  : 320,
+		"imageHeight" : 200,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 6,
+		"pixelHeight" : 7
+	},
+	{
 		"comment"     : "DOS Mode 13h to MacBook Pro 15\" (2019)",
 		"areaWidth"   : 2880,
 		"areaHeight"  : 1800,

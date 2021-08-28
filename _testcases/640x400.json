@@ -66,6 +66,28 @@
 		"pixelHeight" : 4
 	},
 	{
+		"comment"     : "640x400 to 3000x2000; zero height loss",
+		"areaWidth"   : 3000,
+		"areaHeight"  : 2000,
+		"imageWidth"  : 640,
+		"imageHeight" : 400,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 4,
+		"pixelHeight" : 5
+	},
+	{
+		"comment"     : "640x400 to 3000x2000 (portrait)",
+		"areaWidth"   : 2000,
+		"areaHeight"  : 3000,
+		"imageWidth"  : 640,
+		"imageHeight" : 400,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 3,
+		"pixelHeight" : 4
+	},
+	{
 		"comment"     : "640x400 to QHD; AR correction is impossible",
 		"areaWidth"   : 2560,
 		"areaHeight"  : 1440,

@@ -201,6 +201,52 @@
 		"pixelHeight" : 8
 	},
 	{
+		"comment"     : "SNES to 3000x2000",
+		"areaWidth"   : 3000,
+		"areaHeight"  : 2000,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 9,
+		"pixelHeight" : 8
+	},
+	{
+		"comment"     : "SNES to 3000x2000 (1+1 pixels cropped vertically)",
+		"areaWidth"   : 3000,
+		"areaHeight"  : 2000,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"imageCropY"  : 2,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 10,
+		"pixelHeight" : 9
+	},
+	{
+		"comment"     : "SNES to 3000x2000 (portrait); zero AR error",
+		"areaWidth"   : 2000,
+		"areaHeight"  : 3000,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 7,
+		"pixelHeight" : 6
+	},
+	{
+		"comment"     : "SNES to 3000x2000 (portrait) (3+3 pixels cropped horizontally); zero width loss",
+		"areaWidth"   : 2000,
+		"areaHeight"  : 3000,
+		"imageWidth"  : 256,
+		"imageHeight" : 224,
+		"imageCropX"  : 6,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 8,
+		"pixelHeight" : 7
+	},
+	{
 		"comment"     : "SNES to MacBook Pro 15\" (2019)",
 		"areaWidth"   : 2880,
 		"areaHeight"  : 1800,
