@@ -22,6 +22,50 @@
 		"pixelHeight" : 8
 	},
 	{
+		"comment"     : "720x400 to 5K",
+		"areaWidth"   : 5120,
+		"areaHeight"  : 2880,
+		"imageWidth"  : 720,
+		"imageHeight" : 400,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 7
+	},
+	{
+		"comment"     : "720x400 to 5K (portrait); zero width loss",
+		"areaWidth"   : 2880,
+		"areaHeight"  : 5120,
+		"imageWidth"  : 720,
+		"imageHeight" : 400,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 4,
+		"pixelHeight" : 5
+	},
+	{
+		"comment"     : "720x400 to Surface Studio 1/2",
+		"areaWidth"   : 4500,
+		"areaHeight"  : 3000,
+		"imageWidth"  : 720,
+		"imageHeight" : 400,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 5,
+		"pixelHeight" : 7
+	},
+	{
+		"comment"     : "720x400 to Surface Studio 1/2 (portrait)",
+		"areaWidth"   : 3000,
+		"areaHeight"  : 4500,
+		"imageWidth"  : 720,
+		"imageHeight" : 400,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 4,
+		"pixelHeight" : 5
+	},
+	{
 		"comment"     : "720x400 to WQUXGA; zero height loss",
 		"areaWidth"   : 3840,
 		"areaHeight"  : 2400,
@@ -88,6 +132,28 @@
 		"pixelHeight" : 3
 	},
 	{
+		"comment"     : "720x400 to WQXGA; zero height loss",
+		"areaWidth"   : 2560,
+		"areaHeight"  : 1600,
+		"imageWidth"  : 720,
+		"imageHeight" : 400,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 3,
+		"pixelHeight" : 4
+	},
+	{
+		"comment"     : "720x400 to WQXGA (portrait)",
+		"areaWidth"   : 1600,
+		"areaHeight"  : 2560,
+		"imageWidth"  : 720,
+		"imageHeight" : 400,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 2,
+		"pixelHeight" : 3
+	},
+	{
 		"comment"     : "720x400 to QHD",
 		"areaWidth"   : 2560,
 		"areaHeight"  : 1440,
@@ -108,5 +174,27 @@
 		"aspectY"     : 3,
 		"pixelWidth"  : 2,
 		"pixelHeight" : 3
+	},
+	{
+		"comment"     : "720x400 to FHD",
+		"areaWidth"   : 1920,
+		"areaHeight"  : 1080,
+		"imageWidth"  : 720,
+		"imageHeight" : 400,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 1,
+		"pixelHeight" : 2
+	},
+	{
+		"comment"     : "720x400 to FHD (portrait)",
+		"areaWidth"   : 1080,
+		"areaHeight"  : 1920,
+		"imageWidth"  : 720,
+		"imageHeight" : 400,
+		"aspectX"     : 4,
+		"aspectY"     : 3,
+		"pixelWidth"  : 1,
+		"pixelHeight" : 2
 	}
 ]
